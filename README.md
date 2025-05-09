@@ -21,9 +21,9 @@ You’ll also find topic-specific repositories here over time.
 
 ## 📜 License
 
-Tämän repon sisältö on lisensoitu Creative Commons BY-NC 4.0 -lisenssillä (katso LICENSE-tiedosto). Voit jakaa ja muokata materiaalia ei-kaupallisesti, kunhan mainitset alkuperäisen tekijän.
+Tämän repon sisältö on lisensoitu lisensoitu [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (katso myös LICENSE-tiedosto). Voit jakaa ja muokata materiaalia ei-kaupallisesti, kunhan mainitset alkuperäisen tekijän.
 
-This repository is licensed under Creative Commons BY-NC 4.0 (see LICENSE file). You can share and adapt the material for non-commercial purposes, with attribution.
+This repository is licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see also LICENSE file). You can share and adapt the material for non-commercial purposes, with attribution.
 
 ---
 © Eetu Niemi 2025
