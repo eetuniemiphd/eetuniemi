@@ -1,6 +1,6 @@
 # Eetu Niemi
 
-👋 Tervetuloa! Olen Eetu Niemi – konsultti, kokonaisarkkitehtuurin asiantuntija ja kirjailija. Tässä repossa kokoan yhteen projektejani, julkaisuja ja kirjoituksia.
+👋 Tervetuloa! Olen Eetu Niemi – konsultti, kokonaisarkkitehtuuriasiantuntija ja kirjailija. Tässä repossa kokoan yhteen projektejani, julkaisuja ja kirjoituksia.
 
 👋 Welcome! I'm Eetu Niemi – consultant, enterprise architecture expert and author. This repo gathers my projects, publications and writings.
 
