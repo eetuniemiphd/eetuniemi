@@ -8,7 +8,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (FI)](https://kokonaisarkkitehtuuri.com)
-- 📒📘 [IT Consulting Career Books] – Two practical guides for professionals (EN)](https://itconsulting.carrd.co)
+- 📒📘 [IT Consulting Career Books – Two practical guides for professionals (EN)](https://itconsulting.carrd.co)
 - ✍️ [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)
 - 💼 [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)
 - 📄 [Enterprise Architecture Benefit Realization (PhD Dissertation, EN)](http://urn.fi/URN:ISBN:978-952-15-3850-6)
