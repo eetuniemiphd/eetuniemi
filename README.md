@@ -4,6 +4,10 @@
 
 👋 Welcome! I'm Eetu Niemi – consultant, enterprise architecture expert and author. This repo gathers my projects, publications and writings.
 
+## 📚 Julkaisut / Publications
+
+[Julkaisuluettelo / List of Publications]([https://www.linkedin.com/in/eetuniemiphd](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
+
 ## 🔗 Linkit ja sisällöt / Links & content
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
