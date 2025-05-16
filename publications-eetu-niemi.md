@@ -2,21 +2,21 @@
 
 ## Writing Competitions
 
-- Nova, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society (2024).
+- **Nova**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society (2024).
   - "Siivekäs" ("Winged") placed 6th out of 131 entries
   - "Kun tähdet olivat oikein" ("When the Stars Were Right") was a finalist, ranked among the top 23.
-- Portti, sci-fi and fantasy writing contest for short stories, Tampere Science Fiction Society (2024).
+- **Portti**, sci-fi and fantasy writing contest for short stories, Tampere Science Fiction Society (2024).
   - "Kaislameri" ("The Reed Sea") received an honorable mention, placing in the top 14 of 145 entries.
   - "Kun tähdet olivat oikein" ("When the Stars Were Right") was selected for the final round, ranked in the top 35.
-- Kouvolan dekkaripäivät (Kouvola Crime Literature Festival) short story writing competition and anthology (2024).
+- **Kouvolan dekkaripäivät (Kouvola Crime Literature Festival)** short story writing competition and anthology (2024).
   - "Kuoleman koodi" ("The Death Code") was selected for publication in the official competition anthology, top 24 of 106 submissions.
-- Pullopostia mereltä (Messages in a Bottle from the Sea), Kotkan Meripäivät (Kotka Maritime Festival) & Aviador Publishing short story writing competition and anthology (2022).  
+- **Pullopostia mereltä (Messages in a Bottle from the Sea)**, Kotkan Meripäivät (Kotka Maritime Festival) & Aviador Publishing short story writing competition and anthology (2022).  
   - "Väläyksiä kuvaruudulla" ("Flashes on the Screen"), was selected for publication in the official competition anthology, top 12 of 340+ submissions.
 
 ## Nonfiction Books
 
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation (Upcoming Book)](https://enterprisearchitectureguide.com/)*. Business Expert Press. 
-- Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla* (*Enterprise Architecture: Your Guide Through Organizational Change*)](https://kokonaisarkkitehtuuri.com). Alma Talent.  
+- Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla* (*Enterprise Architecture: Your Guide Through Organizational Change*)](https://kokonaisarkkitehtuuri.com). Alma Insights.  
 - Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.carrd.co)*. Amazon.  
 - Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.carrd.co)*. Amazon.
 
