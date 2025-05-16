@@ -6,7 +6,7 @@
 
 ## 📚 Julkaisut / Publications
 
-[Julkaisuluettelo / List of Publications]([https://www.linkedin.com/in/eetuniemiphd](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
+[Julkaisuluettelo / List of Publications](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
 
 ## 🔗 Linkit ja sisällöt / Links & content
 
