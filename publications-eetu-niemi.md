@@ -22,9 +22,9 @@
 
 ## Short Stories
 
-- Niemi, E. (2024). *"Kaislameri"* (*"The Reed Sea"*). Teoksessa Portti 4/2024. Tampere Science Fiction Society .  
-- Niemi, E. (2024). *"Kuoleman koodi"* (*"The Death Code"*). Teoksessa *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024 (Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest)*. City of Kouvola.  
-- Niemi, E. (2022). *"Väläyksiä kuvaruudulla"* (*"Flashes on the Screen"*). Teoksessa *Pullopostia mereltä*. Aviador Publishing.
+- Niemi, E. (2024). *"Kaislameri"* (*"The Reed Sea"*). Publisher in *Portti 4/2024*. Tampere Science Fiction Society .  
+- Niemi, E. (2024). *"Kuoleman koodi"* (*"The Death Code"*). Publisher in *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024 (Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest)*. City of Kouvola.  
+- Niemi, E. (2022). *"Väläyksiä kuvaruudulla"* (*"Flashes on the Screen"*). Publisher in *Pullopostia mereltä (Messages in a Bottle from the Sea)*. Aviador Publishing.
 
 ## Magazine Articles
 
@@ -57,7 +57,7 @@
 
 ## Theses
 
-- Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. Väitöskirja. Tampereen teknillinen yliopisto. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
+- Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
 - Niemi, E. (2005). *Ohjelmistotuotteen käyttöönotto telepalvelualan suuryrityksessä* (*Implementation of a Software Product in a Telecom Corporation*). University of Jyväskylä.
 
 ## Academic Publications
