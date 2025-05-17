@@ -28,7 +28,7 @@
 
 ## Magazine Articles
 
-- Niemi, E. (2025). *[Alkoholiverotuksen villi EU: kuka maksaa eniten ja miksi?*](https://juomaposti.fi/alkoholiverotuksen-villi-eu/) (*The Wild EU of Alcohol Taxation: Who Pays the Most and Why?*). Juomaposti (Drinks Post) (1).  
+- Niemi, E. (2025). *[Alkoholiverotuksen villi EU: kuka maksaa eniten ja miksi?](https://juomaposti.fi/alkoholiverotuksen-villi-eu/)* (*The Wild EU of Alcohol Taxation: Who Pays the Most and Why?*). Juomaposti (Drinks Post) (1).  
 - Niemi, E. (2024). *Kotimaisten panimojättien talous 2023* (*Financials of Finnish Major Breweries 2023*). Juomaposti (Drinks Post) (4).  
 - Niemi, E. (2024). *Pienpanimoiden vuosi 2023: sinnittelyä kriisien jälkimainingeissa* (*The Year of Small Breweries 2023: Coping After the Crisis*). Juomaposti (Drinks Post) (3).  
 - Niemi, E. (2024). *Lopettaneet pienpanimot* (*Discontinued Breweries*). Olutposti (Drinks Post) (2).  
