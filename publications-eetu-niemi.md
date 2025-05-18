@@ -11,7 +11,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - [Nonfiction Books](#nonfiction-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
-- [My Own Blogs](#my-onw-blogs)
+- [Own Blogs](#own-blogs)
 - [Selected Blog Posts](#selected-blog-posts)
 - [Theses](#theses)
 - [Academic Publications](#academic-publications)
@@ -75,7 +75,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ---
 
-## My Own Blogs
+## Own Blogs
 
 - [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)
 - [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)
