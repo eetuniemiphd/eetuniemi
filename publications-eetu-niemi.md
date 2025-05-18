@@ -1,7 +1,7 @@
 # List of Publications
 **Eetu Niemi, PhD**
 
-Personal home page: *[EN](https://eetuniemi.net)* / *[FI](https://eetuniemi.fi)*
+Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.fi)**
 
 ## Table of Contents
 
