@@ -11,7 +11,7 @@
 ## 🔗 Linkit ja sisällöt / Links & Content
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
-- 🏠 [Personal home page](https://eetuniemi.net)
+- 🏠 Personal home page: [EN](https://eetuniemi.net) / [FI](https://eetuniemi.fi)
 - 📖 [Enterprise Architecture: Your Guide to Organizational Transformation (upcoming book, EN)](https://enterprisearchitectureguide.com)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
 - 📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)](https://itconsulting.carrd.co)
