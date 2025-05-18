@@ -93,7 +93,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Reports and White Papers
 
-- Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. Coala. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
+- Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja (Modeling Handbook for Enterprise and Solution Architecture)*. Coala. [Download publication from Coala's webpage (PDF)](https://coala.fi/ajankohtaista/lataukset)
 
 ---
 
