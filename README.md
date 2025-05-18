@@ -22,6 +22,7 @@
 ## 📁 Repoja / Repositories
 
 [Kokonaisarkkitehtuuri](https://github.com/eetuniemiphd/kokonaisarkkitehtuuri)
+
 [Enterprise architecture](https://github.com/eetuniemiphd/enterprisearchitecture)
 
 ## 📜 License
