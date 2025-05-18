@@ -1,4 +1,19 @@
-# Eetu Niemi's List of Publications
+# List of Publications
+**Eetu Niemi, PhD**
+
+Personal home page: *[EN](https://eetuniemi.net)* / *[FI](https://eetuniemi.fi)*
+
+## Table of Contents
+
+- [Writing Competitions](#writing-competitions)
+- [Nonfiction Books](#nonfiction-books)
+- [Short Stories](#short-stories)
+- [Magazine Articles](#magazine-articles)
+- [Selected Blog Posts (Other Platforms](#selected-blog-posts-(other-platforms))
+- [Theses](#theses)
+- [Academic Publications](#academic-publications)
+  
+---
 
 ## Writing Competitions
 
@@ -12,6 +27,8 @@
   - "Kuoleman koodi" ("The Death Code") was selected for publication in the official competition anthology, top 24 of 106 submissions.
 - **Pullopostia mereltä (Messages in a Bottle from the Sea) (2022)**, Kotkan Meripäivät (Kotka Maritime Festival) & Aviador Publishing short story writing competition and anthology.  
   - "Väläyksiä kuvaruudulla" ("Flashes on the Screen"), was selected for publication in the official competition anthology, top 12 of 340+ submissions.
+ 
+---
 
 ## Nonfiction Books
 
@@ -20,11 +37,15 @@
 - Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.carrd.co)*. Amazon.  
 - Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.carrd.co)*. Amazon.
 
+---
+
 ## Short Stories
 
 - Niemi, E. (2024). "Kaislameri" ("The Reed Sea"). Published in *Portti 4/2024*. Tampere Science Fiction Society .  
 - Niemi, E. (2024). "Kuoleman koodi" ("The Death Code"). Published in *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024 (Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest)*. City of Kouvola.  
 - Niemi, E. (2022). "Väläyksiä kuvaruudulla" ("Flashes on the Screen"). Published in *Pullopostia mereltä (Messages in a Bottle from the Sea)*. Aviador Publishing.
+
+---
 
 ## Magazine Articles
 
@@ -49,16 +70,22 @@
 - Niemi, E. (2021). *Mitä kokonaisarkkitehtuuri on palveluna?* (*What Is Enterprise Architecture as a Service?*). Sytyke (4).  
 - Niemi, E. (2021). *Kirjajulkaisu Amazonin alustalla* (*Publishing a Book via Amazon*). Sytyke (2).
 
-## Selected Blog Posts
+---
+
+## Selected Blog Posts (Other Platforms)
 
 - Niemi, E. (June 6, 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta) (*Five Symptoms Indicating Lack of Enterprise Architecture*).  
 - Niemi, E. (May 23, 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta) (*The Seven Wonders of Enterprise Architecture*).  
 - Niemi, E. (April 4, 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti) (*Three Easy Ways to Start Leveraging Enterprise Architecture*).
 
+---
+
 ## Theses
 
 - Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
 - Niemi, E. (2005). *Ohjelmistotuotteen käyttöönotto telepalvelualan suuryrityksessä* (*Implementation of a Software Product in a Telecom Corporation*). University of Jyväskylä.
+
+---
 
 ## Academic Publications
 
