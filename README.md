@@ -1,17 +1,17 @@
 # Eetu Niemi
 
-👋 Tervetuloa! Olen Eetu Niemi – konsultti, kokonaisarkkitehtuuriasiantuntija ja kirjailija. Tässä repossa kokoan yhteen projektejani, julkaisuja ja kirjoituksia.
+👋 Tervetuloa! Olen Eetu Niemi – kokonaisarkkitehti, konsultti ja kirjailija. Tässä repossa kokoan yhteen projektejani, julkaisujani ja kirjoituksiani.
 
-👋 Welcome! I'm Eetu Niemi – consultant, enterprise architecture expert and author. This repo gathers my projects, publications and writings.
+👋 Welcome! I'm Eetu Niemi – enterprise architect, consultant and author. This repo gathers my projects, publications and writings.
 
 ## 📚 Julkaisuluettelo / List of Publications
 
 [Julkaisuluettelo / List of Publications](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
 
-## 🔗 Linkit ja sisällöt / Links & Content
+## 🔗 Pikalinkit / Quick Links
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
-- 🏠 Personal home page: [EN](https://eetuniemi.net) / [FI](https://eetuniemi.fi)
+- 🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 - 📖 [Enterprise Architecture: Your Guide to Organizational Transformation (upcoming book, EN)](https://enterprisearchitectureguide.com)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
 - 📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)](https://itconsulting.carrd.co)
