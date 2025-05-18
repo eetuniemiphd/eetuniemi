@@ -13,6 +13,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - [Magazine Articles](#magazine-articles)
 - [Own Blogs](#own-blogs)
 - [Selected Blog Posts](#selected-blog-posts)
+- [Reports and White Papers](#reports-and-white-papers)
 - [Theses](#theses)
 - [Academic Publications](#academic-publications)
   
@@ -87,6 +88,12 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - Niemi, E. (June 6, 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta) (*Five Symptoms Indicating Lack of Enterprise Architecture*).  
 - Niemi, E. (May 23, 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta) (*The Seven Wonders of Enterprise Architecture*).  
 - Niemi, E. (April 4, 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti) (*Three Easy Ways to Start Leveraging Enterprise Architecture*).
+
+---
+
+## Reports and White Papers
+
+- Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja*. Coala. [Lataa julkaisu Coalan sivuilta (PDF)](https://coala.fi/ajankohtaista/lataukset)
 
 ---
 
