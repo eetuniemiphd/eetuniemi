@@ -3,12 +3,15 @@
 
 Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.fi)**
 
+---
+
 ## Table of Contents
 
 - [Writing Competitions](#writing-competitions)
 - [Nonfiction Books](#nonfiction-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
+- [My Own Blogs](#my-onw-blogs)
 - [Selected Blog Posts](#selected-blog-posts)
 - [Theses](#theses)
 - [Academic Publications](#academic-publications)
@@ -69,6 +72,13 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - Niemi, E. (2020). *Kannattaako pienpanimon omistus?* (*Is Craft Brewery Ownership Worth It?*). Olutposti (Beer Post) (2).  
 - Niemi, E. (2021). *Mitä kokonaisarkkitehtuuri on palveluna?* (*What Is Enterprise Architecture as a Service?*). Sytyke (4).  
 - Niemi, E. (2021). *Kirjajulkaisu Amazonin alustalla* (*Publishing a Book via Amazon*). Sytyke (2).
+
+---
+
+## My Own Blogs
+
+- [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)
+- [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)
 
 ---
 
