@@ -21,9 +21,7 @@
 
 ## 📁 Repoja / Repositories
 
-Täältä löydät jatkossa myös erillisiä, aiheittain jaoteltuja repositoryjä.
-
-You’ll also find topic-specific repositories here over time.
+[Kokonaisarkkitehtuuri](https://github.com/eetuniemiphd/kokonaisarkkitehtuuri/tree/main)
 
 ## 📜 License
 
