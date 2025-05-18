@@ -9,7 +9,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - [Nonfiction Books](#nonfiction-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
-- [Selected Blog Posts (Other Platforms](#selected-blog-posts-(other-platforms))
+- [Selected Blog Posts (Other Platforms](#selected-blog-posts)
 - [Theses](#theses)
 - [Academic Publications](#academic-publications)
   
@@ -72,7 +72,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ---
 
-## Selected Blog Posts (Other Platforms)
+## Selected Blog Posts
 
 - Niemi, E. (June 6, 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta) (*Five Symptoms Indicating Lack of Enterprise Architecture*).  
 - Niemi, E. (May 23, 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta) (*The Seven Wonders of Enterprise Architecture*).  
