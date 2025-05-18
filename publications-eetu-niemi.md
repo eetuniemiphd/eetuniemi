@@ -9,7 +9,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - [Nonfiction Books](#nonfiction-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
-- [Selected Blog Posts (Other Platforms](#selected-blog-posts)
+- [Selected Blog Posts](#selected-blog-posts)
 - [Theses](#theses)
 - [Academic Publications](#academic-publications)
   
