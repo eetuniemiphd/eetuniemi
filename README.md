@@ -11,6 +11,7 @@
 ## 🔗 Pikalinkit / Quick Links
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
+- 🔗 [Facebook (author page)](https://www.facebook.com/profile.php?id=61577058500196)
 - 🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 - 📖 [Enterprise Architecture: Your Guide to Organizational Transformation (upcoming book, EN)](https://enterprisearchitectureguide.com)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
