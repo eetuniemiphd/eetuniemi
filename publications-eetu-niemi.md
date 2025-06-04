@@ -9,7 +9,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - [Writing Competitions](#writing-competitions)
 - [Nonfiction Books](#nonfiction-books)
-- [Children's Books](#children's-books)
+- [Children's Books](#childrens-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
 - [Own Blogs](#own-blogs)
