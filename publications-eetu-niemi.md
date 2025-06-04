@@ -43,6 +43,12 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ---
 
+## Children's Books
+
+- Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)*. Amazon.  
+
+---
+
 ## Short Stories
 
 - Niemi, E. (2024). "Kaislameri" ("The Reed Sea"). Published in *Portti 4/2024*. Tampere Science Fiction Society .  
