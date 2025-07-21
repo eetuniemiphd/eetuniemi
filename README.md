@@ -6,8 +6,8 @@
 
 ## 📚 Julkaisuluettelo ja esitykset / List of Publications and Presentations
 
-[Julkaisuluettelo / List of Publications](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
-[Esiintymiset ja esitykset (FI)](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
+- [Julkaisuluettelo / List of Publications](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
+- [Esiintymiset ja esitykset / Presenations and appearances](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md)
 
 ## 🔗 Pikalinkit / Quick Links
 
