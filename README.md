@@ -4,9 +4,10 @@
 
 👋 Welcome! I'm Eetu Niemi – enterprise architect, consultant and author. This repo gathers my projects, publications and writings.
 
-## 📚 Julkaisuluettelo / List of Publications
+## 📚 Julkaisuluettelo ja esitykset / List of Publications and Presentations
 
 [Julkaisuluettelo / List of Publications](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
+[Esiintymiset ja esitykset (FI)](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
 
 ## 🔗 Pikalinkit / Quick Links
 
