@@ -6,7 +6,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ---
 
-## Table of Contents
+## Sisällysluettelo
 
 - [Esitykset](#esitykset)
 
