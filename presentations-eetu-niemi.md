@@ -1,4 +1,4 @@
-# Julkiset esitykset ja esiintymiset suomeksi / Public presentations and appearances in Finnish
+# Julkiset esitykset suomeksi / Public presentations in Finnish
 
 **Eetu Niemi, PhD**
 
@@ -9,7 +9,6 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 ## Table of Contents
 
 - [Esitykset](#esitykset)
-- [Esiintymiset](#esiintymiset)
 
 ## Esitykset
 
@@ -46,9 +45,3 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - **11.10.2017 – Coala-webinaari (Oppia.fi)**: *Kokonaisarkkitehtuurin hyödyt* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/138/coala/webinaari-kokonaisarkkitehtuurin-hyodyt)
 
 - **25.8.2017 – Coala-webinaari (Oppia.fi)**: *IAM:sta apua GDPR-valmistautumiseen* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
-
----
-
-## Esiintymiset
-
-- **27.6.2021 - Koodarikuiskaajan podcast**: *Suorinta reittiä unelmatyöhön IT-konsultiksi* [Tallenne ja lisätiedot](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi)
