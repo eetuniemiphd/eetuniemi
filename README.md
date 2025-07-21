@@ -8,6 +8,7 @@
 
 - [Julkaisuluettelo / List of Publications](https://github.com/eetuniemiphd/eetuniemi/blob/main/publications-eetu-niemi.md)
 - [Esitykset / Presentations](https://github.com/eetuniemiphd/eetuniemi/blob/main/presentations-eetu-niemi.md)
+- [Esiintymiset, haastattelut ja media / Appearances, interviews, and media](https://github.com/eetuniemiphd/eetuniemi/blob/main/appearances-media-eetu-niemi.md)
 
 ## 🔗 Pikalinkit / Quick Links
 
