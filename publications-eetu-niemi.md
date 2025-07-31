@@ -12,7 +12,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - [Children's Books](#childrens-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
-- [Own Blogs](#own-blogs/newsletters)
+- [Own Blogs](#own-blogs-newsletters)
 - [Selected Blog Posts](#selected-blog-posts)
 - [Reports and White Papers](#reports-and-white-papers)
 - [Theses](#theses)
