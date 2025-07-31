@@ -52,7 +52,7 @@
 ## Romaanit
 ***Novels***
 
-- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*). **📘 Upcoming book – 🛠️ Working title**. *Momentum Publishing*
+- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*). Momentum Publishing. **📘 Upcoming book – 🛠️ Working title**
 
 ---
 
