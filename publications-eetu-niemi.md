@@ -13,18 +13,18 @@
 - 📘 [Tietokirjat / Nonfiction Books](#tietokirjat)
 - 📖 [Romaanit / Novels](#romaanit)
 - 🧸 [Lastenkirjat / Children's Books](#lastenkirjat)
-- [Novellit / Short Stories](#novellit)
-- [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
-- [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
-- [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
-- [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
-- [Opinnäytetyöt / Theses](#opinnäytetyöt)
-- [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)
+- ✍️ [Novellit / Short Stories](#novellit)
+- 📰 [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
+- 🧵 [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
+- 📝 [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
+- 📄 [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
+- 🎓 [Opinnäytetyöt / Theses](#opinnäytetyöt)
+- 🧠 [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)
   
 ---
 
 ## Kirjoituskilpailut
-***Writing Competitions***
+*** 🏆 Writing Competitions***
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
   - "Siivekäs" ("Winged") placed 6th out of 131 entries
@@ -64,7 +64,7 @@
 
 ---
 
-## ✍️ Novellit
+## Novellit
 ***Short Stories***
 
 - Niemi, E. (2024). "Kaislameri" ("The Reed Sea"). Published in *Portti 4/2024*. Tampere Science Fiction Society .  
@@ -73,7 +73,7 @@
 
 ---
 
-## 📰 Lehtiartikkelit
+## Lehtiartikkelit
 ***Magazine Articles***
 
 - Niemi, E. (2025). *[Alkoholiverotuksen villi EU: kuka maksaa eniten ja miksi?](https://juomaposti.fi/alkoholiverotuksen-villi-eu/)* (*The Wild EU of Alcohol Taxation: Who Pays the Most and Why?*). Juomaposti (Drinks Post) (1).  
@@ -99,7 +99,7 @@
 
 ---
 
-## 🧵 Omat blogit ja uutiskirjeet
+##  Omat blogit ja uutiskirjeet
 ***Own Blogs and Newsletters***
 
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
@@ -107,7 +107,7 @@
 
 ---
 
-## 📝 Valikoituja blogikirjoituksia
+## Valikoituja blogikirjoituksia
 ***Selected Blog Posts***
 
 - Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen) (*Five Steps to Starting Enterprise Architecture Work*). *Alma Insights*
@@ -120,7 +120,7 @@
 
 ---
 
-## 📄 Raportit ja white paperit
+## Raportit ja white paperit
 ***Reports and White Papers***
 
 - Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja (Modeling Handbook for Enterprise and Solution Architecture)*. Coala Oy. [Download publication from Coala's webpage (PDF)](https://coala.fi/ajankohtaista/lataukset)
@@ -129,7 +129,7 @@
 
 ---
 
-## 🎓 Opinnäytetyöt
+## Opinnäytetyöt
 ***Theses***
 
 - Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
@@ -137,7 +137,7 @@
 
 ---
 
-## 🧠 Tieteelliset julkaisut
+## Tieteelliset julkaisut
 ***Academic Publications***
 
 - Niemi, E. & Pekkola, S. (2020). The Benefits of Enterprise Architecture in Organizational Transformation. Business & Information Systems Engineering 62, 585–597. https://doi.org/10.1007/s12599-019-00605-3
