@@ -15,6 +15,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
 - 🔗 [Instagram](https://www.instagram.com/eetuniemi.author)
 - 🔗 [Facebook (author page)](https://www.facebook.com/profile.php?id=61577058500196)
+- 🔗 [Goodreads (author page)](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)
 - 🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 - 📖 [Enterprise Architecture: Your Guide to Organizational Transformation (upcoming book, EN)](https://enterprisearchitectureguide.com)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
