@@ -23,7 +23,7 @@
 ---
 
 ## Kirjoituskilpailut
-*Writing Competitions*
+**Writing Competitions**
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
   - "Siivekäs" ("Winged") placed 6th out of 131 entries
@@ -39,7 +39,7 @@
 ---
 
 ## Tietokirjat
-*Nonfiction Books*
+**Nonfiction Books**
 
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press – **Upcoming book**
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
