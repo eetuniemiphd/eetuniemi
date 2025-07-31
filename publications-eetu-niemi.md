@@ -12,7 +12,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - [Children's Books](#childrens-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
-- [Own Blogs](#own-blogs)
+- [Own Blogs](#own-blogs/newsletters)
 - [Selected Blog Posts](#selected-blog-posts)
 - [Reports and White Papers](#reports-and-white-papers)
 - [Theses](#theses)
@@ -83,7 +83,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ---
 
-## Own Blogs
+## Own Blogs/Newsletters
 
 - [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)
 - [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)
@@ -92,9 +92,13 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Selected Blog Posts
 
-- Niemi, E. (June 6, 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta) (*Five Symptoms Indicating Lack of Enterprise Architecture*).  
-- Niemi, E. (May 23, 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta) (*The Seven Wonders of Enterprise Architecture*).  
-- Niemi, E. (April 4, 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti) (*Three Easy Ways to Start Leveraging Enterprise Architecture*).
+- Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen (*Five Steps to Initiating Enterprise Architecture Work*)](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen). *Alma Insights*
+- Niemi, E. (September 12, 2024). [Kuinka kokonaisarkkitehtuuri auttaa hyödyntämään tekoälyä (*How Enterprise Architecture Helps Leverage AI*)](https://www.almainsights.fi/blogi/kuinka-kokonaisarkkitehtuuri-auttaa-hyodyntamaan-tekoalya). *Alma Insights*
+- Niemi, E. (September 3, 2024). [Kokonaisarkkitehtuurin seitsemän tuhoisaa houkutusta (*Seven Destructive Temptations of Enterprise Architecture*)](https://www.cgi.com/fi/fi/blogi/kokonaisarkkitehtuurin-seitseman-tuhoisaa-houkutusta). *CGI*
+- Niemi, E. (June 6, 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta (*Five Symptoms Indicating Lack of Enterprise Architecture*)](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta). *CGI*
+- Niemi, E. (May 23, 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä (*The Seven Wonders of Enterprise Architecture*)](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta). *Alma Insights*
+- Niemi, E. (April 4, 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti (*Three Easy Ways to Start Leveraging Enterprise Architecture Immediately*)](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti). *Alma Insights*
+- Niemi, E. (November 2, 2023). [Kolme tärkeintä pointtia, jotka johtajan pitäisi tietää kokonaisarkkitehtuurista (*Three Key Points Every Leader Should Know About Enterprise Architecture*)](https://www.almainsights.fi/blogi/kolme-tarkeinta-pointtia-jotka-johtajan-pitaisi-tietaa-kokonaisarkkitehtuurista). *Alma Insights*
 
 ---
 
