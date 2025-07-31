@@ -9,10 +9,10 @@
 
 ## Sisällysluettelo / Table of Contents
 
-- 🏆[Kirjoituskilpailut / Writing Competitions](#kirjoituskilpailut)
-- [Tietokirjat / Nonfiction Books](#tietokirjat)
-- [Romaanit / Novels](#romaanit)
-- [Lastenkirjat / Children's Books](#lastenkirjat)
+- 🏆 [Kirjoituskilpailut / Writing Competitions](#kirjoituskilpailut)
+- 📘 [Tietokirjat / Nonfiction Books](#tietokirjat)
+- 📖 [Romaanit / Novels](#romaanit)
+- 🧸 [Lastenkirjat / Children's Books](#lastenkirjat)
 - [Novellit / Short Stories](#novellit)
 - [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
 - [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
@@ -39,7 +39,7 @@
  
 ---
 
-## 📘 Tietokirjat
+## Tietokirjat
 ***Nonfiction Books***
 
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press. **📘 Upcoming book**
@@ -49,14 +49,14 @@
 
 ---
 
-## 📖 Romaanit
+## Romaanit
 ***Novels***
 
 - Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*). Momentum Publishing. **📘 Upcoming book – 🛠️ Working title**
 
 ---
 
-## 🧸 Lastenkirjat
+## Lastenkirjat
 ***Children's Books***
 
 - Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*). Aviador Publishing. **📘 Upcoming book – 🛠️ Working title**
