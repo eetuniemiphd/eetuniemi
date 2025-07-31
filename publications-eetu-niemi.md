@@ -1,7 +1,8 @@
 # 📚 Julkaisuluettelo / List of Publications  
 **Eetu Niemi, PhD**
 
-🌍 Personal homepage: [EN](https://eetuniemi.net) / [FI](https://eetuniemi.fi)  
+🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
+🗣️ Tämä julkaisuluettelo on kaksikielinen (🇫🇮 / 🇬🇧). Suominkieliset otsikot ja nimet esitetään ensin, englanninkieliset käännökset sulkeissa.  
 🗣️ This publication list is bilingual (🇫🇮 / 🇬🇧). Finnish titles are shown first, with English translations in parentheses.
 
 ---
@@ -51,7 +52,7 @@
 ## Romaanit
 ***Novels***
 
-- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*) **(working title)**. Momentum Publishing – **Upcoming book**
+- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*). **📘 Upcoming book – 🛠️ Working title**. *Momentum Publishing*
 
 ---
 
