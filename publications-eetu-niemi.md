@@ -9,6 +9,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - [Writing Competitions](#writing-competitions)
 - [Nonfiction Books](#nonfiction-books)
+- [Novels](#novels)
 - [Children's Books](#childrens-books)
 - [Short Stories](#short-stories)
 - [Magazine Articles](#magazine-articles)
@@ -37,15 +38,22 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Nonfiction Books
 
-- Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation (Upcoming Book)](https://enterprisearchitectureguide.com)*. Business Expert Press. 
+- Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press – _Upcoming book_
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
 - Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.carrd.co)*. Amazon (self-published).  
 - Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.carrd.co)*. Amazon (self-published). 
 
 ---
 
+## Novels
+
+- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*) _(working title)_. *Momentum Publishing* – _Upcoming book_
+
+--
+
 ## Children's Books
 
+- Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*) _(working title)_. *Aviador Publishing* – _Upcoming book_
 - Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)*. Amazon (self-published).  
 
 ---
