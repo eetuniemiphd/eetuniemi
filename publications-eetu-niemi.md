@@ -47,13 +47,13 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Novels
 
-- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*) _(working title)_. *Momentum Publishing* – **Upcoming book**
+- Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*) **(working title)**. *Momentum Publishing* – **Upcoming book**
 
 ---
 
 ## Children's Books
 
-- Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*) _(working title)_. *Aviador Publishing* – **Upcoming book**
+- Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*) **(working title)**. *Aviador Publishing* – **Upcoming book**
 - Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)*. Amazon (self-published).  
 
 ---
