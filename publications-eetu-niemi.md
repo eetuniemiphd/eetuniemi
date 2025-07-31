@@ -24,7 +24,7 @@
 ---
 
 ## Kirjoituskilpailut
-***🏆 Writing Competitions***
+🏆***Writing Competitions***
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
   - "Siivekäs" ("Winged") placed 6th out of 131 entries
