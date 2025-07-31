@@ -6,19 +6,19 @@
 
 ---
 
-## Table of Contents
+## Sisällysluettelo / Table of Contents
 
-- [Writing Competitions](#writing-competitions)
-- [Nonfiction Books](#nonfiction-books)
-- [Novels](#novels)
-- [Children's Books](#childrens-books)
-- [Short Stories](#short-stories)
-- [Magazine Articles](#magazine-articles)
-- [Own Blogs and Newsletters](#own-blogs-and-newsletters)
-- [Selected Blog Posts](#selected-blog-posts)
-- [Reports and White Papers](#reports-and-white-papers)
-- [Theses](#theses)
-- [Academic Publications](#academic-publications)
+- [Kirjoituskilpailut / Writing Competitions](#writing-competitions)
+- [Tietokirjat / Nonfiction Books](#nonfiction-books)
+- [Romaanit / Novels](#novels)
+- [Lastenkirjat / Children's Books](#childrens-books)
+- [Novellit / Short Stories](#short-stories)
+- [Lehtiartikkelit / Magazine Articles](#magazine-articles)
+- [Omia blogeja ja uutiskirjeitä / Own Blogs and Newsletters](#own-blogs-and-newsletters)
+- [Valikoituja blogikirjoituksia / Selected Blog Posts](#selected-blog-posts)
+- [Raportit ja white paperit / Reports and White Papers](#reports-and-white-papers)
+- [Opinnäytetyöt / Theses](#theses)
+- [Tieteelliset julkaisut / Academic Publications](#academic-publications)
   
 ---
 
