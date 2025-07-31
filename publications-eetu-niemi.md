@@ -27,15 +27,15 @@
 🏆 ***Writing Competitions***
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
-  - "Siivekäs" ("Winged") placed 6th out of 131 entries
-  - "Kun tähdet olivat oikein" ("When the Stars Were Right") was a finalist, ranked among the top 23.
+  - *Siivekäs* (*Winged') placed 6th out of 131 entries
+  - *Kun tähdet olivat oikein* ("When the Stars Were Right") was a finalist, ranked among the top 23.
 - **Portti (2024)**, sci-fi and fantasy writing contest for short stories, Tampere Science Fiction Society.
-  - "Kaislameri" ("The Reed Sea") received an honorable mention, placing in the top 14 of 145 entries.
-  - "Kun tähdet olivat oikein" ("When the Stars Were Right") was selected for the final round, ranked in the top 35.
+  - *Kaislameri* (*The Reed Sea*) received an honorable mention, placing in the top 14 of 145 entries.
+  - *Kun tähdet olivat oikein* (*When the Stars Were Right*) was selected for the final round, ranked in the top 35.
 - **Kouvolan dekkaripäivät (Kouvola Crime Literature Festival) (2024)** short story writing competition and anthology.
-  - "Kuoleman koodi" ("The Death Code") was selected for publication in the official competition anthology, top 24 of 106 submissions.
+  - *Kuoleman koodi* (*The Death Code*) was selected for publication in the official competition anthology, top 24 of 106 submissions.
 - **Pullopostia mereltä (Messages in a Bottle from the Sea) (2022)**, Kotkan Meripäivät (Kotka Maritime Festival) & Aviador Publishing short story writing competition and anthology.  
-  - "Väläyksiä kuvaruudulla" ("Flashes on the Screen"), was selected for publication in the official competition anthology, top 12 of 340+ submissions.
+  - *Väläyksiä kuvaruudulla* (*Flashes on the Screen*), was selected for publication in the official competition anthology, top 12 of 340+ submissions.
  
 ---
 
@@ -67,9 +67,9 @@
 ## Novellit
 ✍️ ***Short Stories***
 
-- Niemi, E. (2024). "Kaislameri" ("The Reed Sea"). Published in *Portti 4/2024*. Tampere Science Fiction Society.  
-- Niemi, E. (2024). "Kuoleman koodi" ("The Death Code"). Published in *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024 (Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest)*. City of Kouvola.  
-- Niemi, E. (2022). "Väläyksiä kuvaruudulla" ("Flashes on the Screen"). Published in *Pullopostia mereltä (Messages in a Bottle from the Sea)*. Aviador Publishing.
+- Niemi, E. (2024). *Kaislameri* (*The Reed Sea*). Published in *Portti* 4/2024. Tampere Science Fiction Society.  
+- Niemi, E. (2024). *Kuoleman koodi* (*The Death Code*). Published in *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024* (*Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest*). City of Kouvola.  
+- Niemi, E. (2022). *Väläyksiä kuvaruudulla* (*Flashes on the Screen*). Published in *Pullopostia mereltä* (*Messages in a Bottle from the Sea*). Aviador Publishing.  
 
 ---
 
