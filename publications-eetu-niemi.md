@@ -60,7 +60,7 @@
 ***Children's Books***
 
 - Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*). Aviador Publishing. **📘 Upcoming book – 🛠️ Working title**
-- Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)* 🇬🇧. Amazon (self-published).  
+- Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)* (EN). Amazon (self-published).  
 
 ---
 
@@ -102,8 +102,8 @@
 ## 🧵 Omat blogit ja uutiskirjeet
 ***Own Blogs and Newsletters***
 
-- [Enterprise Architecture Transformation](https://www.eatransformation.com) 🇬🇧
-- [IT Consulting Career Hub](https://www.itconsultingcareer.com) 🇬🇧
+- [Enterprise Architecture Transformation](https://www.eatransformation.com) (EN)
+- [IT Consulting Career Hub](https://www.itconsultingcareer.com) (EN)
 
 ---
 
@@ -132,7 +132,7 @@
 ## 🎓 Opinnäytetyöt
 ***Theses***
 
-- Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
+- Niemi, E. (2016). *Enterprise Architecture Benefit Realization* (EN). PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
 - Niemi, E. (2005). *Ohjelmistotuotteen käyttöönotto telepalvelualan suuryrityksessä* (*Implementation of a Software Product in a Telecom Corporation*). University of Jyväskylä.
 
 ---
