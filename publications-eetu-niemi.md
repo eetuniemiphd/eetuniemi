@@ -63,7 +63,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - Niemi, E. (2025). *[Alkoholiverotuksen villi EU: kuka maksaa eniten ja miksi?](https://juomaposti.fi/alkoholiverotuksen-villi-eu/)* (*The Wild EU of Alcohol Taxation: Who Pays the Most and Why?*). Juomaposti (Drinks Post) (1).  
 - Niemi, E. (2024). *[Kotimaisten panimojättien talous 2023](https://juomaposti.fi/taloustoimittaja-selvittaa-kotimaisten-panimojattien-talous-2023)* (*Financials of Finnish Major Breweries 2023*). Juomaposti (Drinks Post) (4).  
 - Niemi, E. (2024). *[Pienpanimoiden vuosi 2023: sinnittelyä kriisien jälkimainingeissa](https://juomaposti.fi/pienpanimoiden-vuosi-2023-sinnittelya-kriisien-jalkimainingeissa)* (*The Year of Small Breweries 2023: Coping After the Crises*). Juomaposti (Drinks Post) (3).  
-- Niemi, E. (2024). *Lopettaneet pienpanimot* (*Discontinued Breweries*). Olutposti (Drinks Post) (2).  
+- Niemi, E. (2024). *Lopettaneet pienpanimot* (*Discontinued Breweries*). Olutposti (Beer Post) (2).  
 - Niemi, E. (2024). *Millaisia ovat kotimaiset siiderinvalmistajat?* (*What Are Finnish Cider Producers Like?*). Olutposti (Beer Post) (1).  
 - Niemi, E. (2023). *[Miten kotimaisilla pientislaamoilla menee?](https://olutposti.fi/miten-kotimaisilla-pientislaamoilla-menee)* (*How Are Finnish Craft Distilleries Doing?*). Olutposti (Beer Post) (4).  
 - Niemi, E. (2023). *Suuri pienpanimoiden talouskatsaus 2022: kriisistä kriisiin* (*Financial Overview of Small Breweries 2022*). Olutposti (Beer Post) (3).  
