@@ -8,21 +8,22 @@
 
 ## Sisällysluettelo / Table of Contents
 
-- [Kirjoituskilpailut / Writing Competitions](#writing-competitions)
-- [Tietokirjat / Nonfiction Books](#nonfiction-books)
-- [Romaanit / Novels](#novels)
-- [Lastenkirjat / Children's Books](#childrens-books)
-- [Novellit / Short Stories](#short-stories)
-- [Lehtiartikkelit / Magazine Articles](#magazine-articles)
-- [Omia blogeja ja uutiskirjeitä / Own Blogs and Newsletters](#own-blogs-and-newsletters)
-- [Valikoituja blogikirjoituksia / Selected Blog Posts](#selected-blog-posts)
-- [Raportit ja white paperit / Reports and White Papers](#reports-and-white-papers)
-- [Opinnäytetyöt / Theses](#theses)
-- [Tieteelliset julkaisut / Academic Publications](#academic-publications)
+- [Kirjoituskilpailut / Writing Competitions](#kirjoituskilpailut)
+- [Tietokirjat / Nonfiction Books](#tietokirjat)
+- [Romaanit / Novels](#romaanit)
+- [Lastenkirjat / Children's Books](#lastenkirjat)
+- [Novellit / Short Stories](#novellit)
+- [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
+- [Omia blogeja ja uutiskirjeitä / Own Blogs and Newsletters](#omia-blogeja-ja-uutiskirjeitä)
+- [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
+- [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
+- [Opinnäytetyöt / Theses](#opinnäytetyöt)
+- [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)
   
 ---
 
-## Writing Competitions
+## Kirjoituskilpailut
+*Writing Competitions*
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
   - "Siivekäs" ("Winged") placed 6th out of 131 entries
@@ -37,7 +38,8 @@
  
 ---
 
-## Nonfiction Books
+## Tietokirjat
+*Nonfiction Books*
 
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press – **Upcoming book**
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
@@ -46,7 +48,8 @@
 
 ---
 
-## Novels
+## Romaanit
+*Novels*
 
 - Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*) **(working title)**. Momentum Publishing – **Upcoming book**
 
