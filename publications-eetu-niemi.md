@@ -15,7 +15,7 @@
 - 🧸 [Lastenkirjat / Children's Books](#lastenkirjat)
 - ✍️ [Novellit / Short Stories](#novellit)
 - 📰 [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
-- 🧵 [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
+- 🌐 [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
 - 📝 [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
 - 📄 [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
 - 🎓 [Opinnäytetyöt / Theses](#opinnäytetyöt)
@@ -24,7 +24,7 @@
 ---
 
 ## Kirjoituskilpailut
-🏆***Writing Competitions***
+🏆 ***Writing Competitions***
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
   - "Siivekäs" ("Winged") placed 6th out of 131 entries
@@ -40,7 +40,7 @@
 ---
 
 ## Tietokirjat
-📘***Nonfiction Books***
+📘 ***Nonfiction Books***
 
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press. **📘 Upcoming book**
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
@@ -50,14 +50,14 @@
 ---
 
 ## Romaanit
-📖***Novels***
+📖 ***Novels***
 
 - Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*). Momentum Publishing. **📘 Upcoming book – 🛠️ Working title**
 
 ---
 
 ## Lastenkirjat
-🧸***Children's Books***
+🧸 ***Children's Books***
 
 - Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*). Aviador Publishing. **📘 Upcoming book – 🛠️ Working title**
 - Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)*. Amazon (self-published).  
@@ -65,7 +65,7 @@
 ---
 
 ## Novellit
-✍️***Short Stories***
+✍️ ***Short Stories***
 
 - Niemi, E. (2024). "Kaislameri" ("The Reed Sea"). Published in *Portti 4/2024*. Tampere Science Fiction Society .  
 - Niemi, E. (2024). "Kuoleman koodi" ("The Death Code"). Published in *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024 (Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest)*. City of Kouvola.  
@@ -74,7 +74,7 @@
 ---
 
 ## Lehtiartikkelit
-📰***Magazine Articles***
+📰 ***Magazine Articles***
 
 - Niemi, E. (2025). *[Alkoholiverotuksen villi EU: kuka maksaa eniten ja miksi?](https://juomaposti.fi/alkoholiverotuksen-villi-eu/)* (*The Wild EU of Alcohol Taxation: Who Pays the Most and Why?*). Juomaposti (Drinks Post) (1).  
 - Niemi, E. (2024). *[Kotimaisten panimojättien talous 2023](https://juomaposti.fi/taloustoimittaja-selvittaa-kotimaisten-panimojattien-talous-2023)* (*Financials of Finnish Major Breweries 2023*). Juomaposti (Drinks Post) (4).  
@@ -100,7 +100,7 @@
 ---
 
 ##  Omat blogit ja uutiskirjeet
-🧵***Own Blogs and Newsletters***
+🌐 ***Own Blogs and Newsletters***
 
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
 - [IT Consulting Career Hub](https://www.itconsultingcareer.com)
@@ -108,7 +108,7 @@
 ---
 
 ## Valikoituja blogikirjoituksia
-📝***Selected Blog Posts***
+📝 ***Selected Blog Posts***
 
 - Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen) (*Five Steps to Starting Enterprise Architecture Work*). *Alma Insights*
 - Niemi, E. (12 September 2024). [Kuinka kokonaisarkkitehtuuri auttaa hyödyntämään tekoälyä](https://www.almainsights.fi/blogi/kuinka-kokonaisarkkitehtuuri-auttaa-hyodyntamaan-tekoalya) (*How Enterprise Architecture Helps Leverage AI*). *Alma Insights*
@@ -121,7 +121,7 @@
 ---
 
 ## Raportit ja white paperit
-📄***Reports and White Papers***
+📄 ***Reports and White Papers***
 
 - Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja (Modeling Handbook for Enterprise and Solution Architecture)*. Coala Oy. [Download publication from Coala's webpage (PDF)](https://coala.fi/ajankohtaista/lataukset)
 - Niemi, E. 2016. *IAM haltuun ymmärtämällä kokonaisuus (Getting a Grip on IAM by Understanding the Big Picture)* . Coala Oy, White Paper 01/2016. [Download publication from Coala's webpage (PDF)](https://coala.fi/files/Coala-White-Paper-01-2016_IAM-haltuun-ymm%C3%A4rt%C3%A4m%C3%A4ll%C3%A4-kokonaisuus.pdf)
@@ -130,7 +130,7 @@
 ---
 
 ## Opinnäytetyöt
-🎓***Theses***
+🎓 ***Theses***
 
 - Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
 - Niemi, E. (2005). *Ohjelmistotuotteen käyttöönotto telepalvelualan suuryrityksessä* (*Implementation of a Software Product in a Telecom Corporation*). University of Jyväskylä.
@@ -138,7 +138,7 @@
 ---
 
 ## Tieteelliset julkaisut
-🧠***Academic Publications***
+🧠 ***Academic Publications***
 
 - Niemi, E. & Pekkola, S. (2020). The Benefits of Enterprise Architecture in Organizational Transformation. Business & Information Systems Engineering 62, 585–597. https://doi.org/10.1007/s12599-019-00605-3
 - Niemi, E. & Pekkola, S. (2016). Enterprise architecture benefit realization: Review of the models and a case study of a public organization. SIGMIS Database 47(3).
