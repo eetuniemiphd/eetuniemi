@@ -2,8 +2,8 @@
 **Eetu Niemi, PhD**
 
 🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
-🗣️ Tämä julkaisuluettelo on kaksikielinen (🇫🇮 / 🇬🇧). Suominkieliset otsikot ja nimet esitetään ensin, englanninkieliset käännökset sulkeissa.  
-🗣️ This publication list is bilingual (🇫🇮 / 🇬🇧). Finnish titles are shown first, with English translations in parentheses.
+🗣️ Tämä julkaisuluettelo on kaksikielinen (FI/EN). Suominkieliset otsikot ja nimet esitetään ensin, englanninkieliset käännökset sulkeissa.  
+🗣️ This publication list is bilingual (FI/EN). Finnish titles are shown first, with English translations in parentheses.
 
 ---
 
@@ -42,10 +42,10 @@
 ## 📘 Tietokirjat
 ***Nonfiction Books***
 
-- Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)* 🇬🇧. Business Expert Press. **📘 Upcoming book**
+- Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)* (EN). Business Expert Press. **📘 Upcoming book**
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
-- Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.carrd.co)* 🇬🇧. Amazon (self-published).  
-- Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.carrd.co)* 🇬🇧. Amazon (self-published). 
+- Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.carrd.co)* (EN). Amazon (self-published).  
+- Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.carrd.co)* (EN). Amazon (self-published). 
 
 ---
 
