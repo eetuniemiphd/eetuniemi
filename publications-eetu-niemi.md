@@ -49,7 +49,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - Niemi, E. (2026). *Pohjoisen tie* (*The Northern Road*) _(working title)_. *Momentum Publishing* – _Upcoming book_
 
---
+---
 
 ## Children's Books
 
