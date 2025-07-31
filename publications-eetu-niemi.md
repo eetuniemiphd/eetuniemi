@@ -9,7 +9,7 @@
 
 ## Sisällysluettelo / Table of Contents
 
-- [Kirjoituskilpailut / Writing Competitions](#kirjoituskilpailut)
+- 🏆[Kirjoituskilpailut / Writing Competitions](#kirjoituskilpailut)
 - [Tietokirjat / Nonfiction Books](#tietokirjat)
 - [Romaanit / Novels](#romaanit)
 - [Lastenkirjat / Children's Books](#lastenkirjat)
@@ -23,7 +23,7 @@
   
 ---
 
-## 🏆 Kirjoituskilpailut
+## Kirjoituskilpailut
 ***Writing Competitions***
 
 - **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
