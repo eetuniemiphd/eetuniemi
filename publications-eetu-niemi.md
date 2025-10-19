@@ -113,13 +113,13 @@
 ## Valikoituja blogikirjoituksia
 📝 ***Selected Blog Posts***
 
-- Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen) (*Five Steps to Starting Enterprise Architecture Work*). *Alma Insights*
-- Niemi, E. (12 September 2024). [Kuinka kokonaisarkkitehtuuri auttaa hyödyntämään tekoälyä](https://www.almainsights.fi/blogi/kuinka-kokonaisarkkitehtuuri-auttaa-hyodyntamaan-tekoalya) (*How Enterprise Architecture Helps Leverage AI*). *Alma Insights*
-- Niemi, E. (3 September 2024). [Kokonaisarkkitehtuurin seitsemän tuhoisaa houkutusta](https://www.cgi.com/fi/fi/blogi/kokonaisarkkitehtuurin-seitseman-tuhoisaa-houkutusta) (*Seven Destructive Temptations of Enterprise Architecture*). *CGI*
-- Niemi, E. (6 June 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta) (*Five Symptoms Indicating Lack of Enterprise Architecture*). *CGI*
-- Niemi, E. (23 May 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta) (*The Seven Wonders of Enterprise Architecture*). *Alma Insights*
-- Niemi, E. (4 April 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti) (*Three Easy Ways to Start Leveraging Enterprise Architecture Immediately*). *Alma Insights*
-- Niemi, E. (2 November 2023). [Kolme tärkeintä pointtia, jotka johtajan pitäisi tietää kokonaisarkkitehtuurista](https://www.almainsights.fi/blogi/kolme-tarkeinta-pointtia-jotka-johtajan-pitaisi-tietaa-kokonaisarkkitehtuurista) (*Three Key Points Every Leader Should Know About Enterprise Architecture*). *Alma Insights*
+- Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen) (Five Steps to Starting Enterprise Architecture Work). *Alma Insights*
+- Niemi, E. (12 September 2024). [Kuinka kokonaisarkkitehtuuri auttaa hyödyntämään tekoälyä](https://www.almainsights.fi/blogi/kuinka-kokonaisarkkitehtuuri-auttaa-hyodyntamaan-tekoalya) (How Enterprise Architecture Helps Leverage AI). *Alma Insights*
+- Niemi, E. (3 September 2024). [Kokonaisarkkitehtuurin seitsemän tuhoisaa houkutusta](https://www.cgi.com/fi/fi/blogi/kokonaisarkkitehtuurin-seitseman-tuhoisaa-houkutusta) (Seven Destructive Temptations of Enterprise Architecture). *CGI*
+- Niemi, E. (6 June 2024). [Viisi oiretta, jotka kielivät kokonaisarkkitehtuurityön puutteesta](https://www.cgi.com/fi/fi/blogi/liiketoimintakonsultointi/viisi-oiretta-jotka-kielivat-kokonaisarkkitehtuurityon-puutteesta) (Five Symptoms Indicating Lack of Enterprise Architecture). *CGI*
+- Niemi, E. (23 May 2024). [Kokonaisarkkitehtuurin seitsemän ihmettä](https://www.almainsights.fi/blogi/kokonaisarkkitehtuurin-seitseman-ihmetta) (The Seven Wonders of Enterprise Architecture). *Alma Insights*
+- Niemi, E. (4 April 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti) (Three Easy Ways to Start Leveraging Enterprise Architecture Immediately). *Alma Insights*
+- Niemi, E. (2 November 2023). [Kolme tärkeintä pointtia, jotka johtajan pitäisi tietää kokonaisarkkitehtuurista](https://www.almainsights.fi/blogi/kolme-tarkeinta-pointtia-jotka-johtajan-pitaisi-tietaa-kokonaisarkkitehtuurista) (Three Key Points Every Leader Should Know About Enterprise Architecture). *Alma Insights*
 - Niemi, E. (3 May 2021). [A Successful Career in IT Requires Meeting Expectations on Both Sides](https://www.itcareerfinder.com/brain-food/blog/entry/a-successful-career-in-it-requires-meeting-expectations-on-both-sides.html?highlight=WyJlZXR1IiwibmllbWkiXQ==). *IT Career Finder*
 
 
