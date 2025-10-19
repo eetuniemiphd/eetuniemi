@@ -76,6 +76,7 @@
 ## Lehtiartikkelit
 📰 ***Magazine Articles***
 
+- Niemi, E. (2025). *Kauppaviiniä vai vahvaa bisseä? Alkoholimyynnin vuosi 2024 päivittäistavarakaupassa* (*nn*). Juomaposti (Drinks Post) (2).  
 - Niemi, E. (2025). *[Alkoholiverotuksen villi EU: kuka maksaa eniten ja miksi?](https://juomaposti.fi/alkoholiverotuksen-villi-eu/)* (*The Wild EU of Alcohol Taxation: Who Pays the Most and Why?*). Juomaposti (Drinks Post) (1).  
 - Niemi, E. (2024). *[Kotimaisten panimojättien talous 2023](https://juomaposti.fi/taloustoimittaja-selvittaa-kotimaisten-panimojattien-talous-2023)* (*Financials of Finnish Major Breweries 2023*). Juomaposti (Drinks Post) (4).  
 - Niemi, E. (2024). *[Pienpanimoiden vuosi 2023: sinnittelyä kriisien jälkimainingeissa](https://juomaposti.fi/pienpanimoiden-vuosi-2023-sinnittelya-kriisien-jalkimainingeissa)* (*The Year of Small Breweries 2023: Coping After the Crises*). Juomaposti (Drinks Post) (3).  
