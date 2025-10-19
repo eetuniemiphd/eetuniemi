@@ -44,8 +44,8 @@
 
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press.
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
-- Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.carrd.co)*. Amazon (self-published).  
-- Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.carrd.co)*. Amazon (self-published). 
+- Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.eetuniemi.net)*. Amazon (self-published).  
+- Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.eetuniemi.net)*. Amazon (self-published). 
 
 ---
 
