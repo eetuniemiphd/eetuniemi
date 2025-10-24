@@ -113,6 +113,7 @@
 ## Valikoituja blogikirjoituksia
 📝 ***Selected Blog Posts***
 
+- Niemi, E. (15 Ocober 2025). [Millainen on vastuullinen, asiakaslähtöinen ja tietoturvallinen kokonaisarkkitehtuuri?](https://www.linkedin.com/pulse/millainen-vastuullinen-asiakasl%25C3%25A4ht%25C3%25B6inen-ja-eetu-niemi-phd-zl0mf/?trackingId=tZxzDzb8RXqdJNO0PkxBDA%3D%3D) (What does a responsible, customer-centric, and secure enterprise architecture look like?). *Linkedin*
 - Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen) (Five Steps to Starting Enterprise Architecture Work). *Alma Insights*
 - Niemi, E. (12 September 2024). [Kuinka kokonaisarkkitehtuuri auttaa hyödyntämään tekoälyä](https://www.almainsights.fi/blogi/kuinka-kokonaisarkkitehtuuri-auttaa-hyodyntamaan-tekoalya) (How Enterprise Architecture Helps Leverage AI). *Alma Insights*
 - Niemi, E. (3 September 2024). [Kokonaisarkkitehtuurin seitsemän tuhoisaa houkutusta](https://www.cgi.com/fi/fi/blogi/kokonaisarkkitehtuurin-seitseman-tuhoisaa-houkutusta) (Seven Destructive Temptations of Enterprise Architecture). *CGI*
