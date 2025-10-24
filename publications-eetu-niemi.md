@@ -123,6 +123,9 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 - Niemi, E. (4 April 2024). [Kolme helppoa tapaa aloittaa kokonaisarkkitehtuurin hyödyntäminen heti](https://www.almainsights.fi/blogi/kolme-helppoa-tapaa-aloittaa-kokonaisarkkitehtuurin-hyodyntaminen-heti) (Three Easy Ways to Start Leveraging Enterprise Architecture Immediately). *Alma Insights*
 - Niemi, E. (2 November 2023). [Kolme tärkeintä pointtia, jotka johtajan pitäisi tietää kokonaisarkkitehtuurista](https://www.almainsights.fi/blogi/kolme-tarkeinta-pointtia-jotka-johtajan-pitaisi-tietaa-kokonaisarkkitehtuurista) (Three Key Points Every Leader Should Know About Enterprise Architecture). *Alma Insights*
 - Niemi, E. (3 May 2021). [A Successful Career in IT Requires Meeting Expectations on Both Sides](https://www.itcareerfinder.com/brain-food/blog/entry/a-successful-career-in-it-requires-meeting-expectations-on-both-sides.html?highlight=WyJlZXR1IiwibmllbWkiXQ==). *IT Career Finder*
+- Niemi, E. (2020 Jan 31). [Onko pienpanimotoiminta kannattavaa bisnestä?](https://www.salkunrakentaja.fi/2020/01/pienpanimotoiminta) (Is Craft Brewing a Profitable Business?). *Salkunrakentaja*
+- Niemi, E. (2020 Jan 28). [Haluaisitko ryhtyä pienpanimon omistajaksi?](https://www.salkunrakentaja.fi/2020/01/pienpanimo-omistaja) (Would You Like to Become a Craft Brewery Owner?). *Salkunrakentaja*
+- Niemi, E. (2020 Jan 24). [Sijoittaisinko pienpanimoon?](https://www.salkunrakentaja.fi/2020/01/sijoittaisinko-pienpanimoon) (Should I Invest in a Craft Brewery?). *Salkunrakentaja*
 
 ---
 
