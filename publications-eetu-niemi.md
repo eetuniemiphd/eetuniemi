@@ -31,7 +31,7 @@
 - **Portti (2024)**, sci-fi and fantasy writing contest for short stories, Tampere Science Fiction Society.
   - *Kaislameri* (*The Reed Sea*) received an honorable mention, placing in the top 14 of 145 entries.
   - *Kun tähdet olivat oikein* (*When the Stars Were Right*) was selected for the final round, ranked in the top 35.
--- **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
+- **Nova (2024)**, sci-fi and fantasy writing contest for short stories, Turku Science Fiction Society.
   - *Siivekäs* (*Winged*) placed 6th out of 131 entries
   - *Kun tähdet olivat oikein* (*When the Stars Were Right*) was a finalist, ranked among the top 23.
 - **Kouvolan dekkaripäivät (Kouvola Crime Literature Festival) (2024)** short story writing competition and anthology.
