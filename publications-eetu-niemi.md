@@ -27,7 +27,7 @@
 🏆 ***Writing Competitions***
 
 - **Art Breaks Walls (2025)**, writing contest for school-themed short stories, Aviador Publishing and writer Hannu Luntiala.
-  - *Vanhan koulun hiljaisuus* (*The Silense of the Old School*) placed the top 16 out of 130 entries
+  - *Vanhan koulun hiljaisuus* (*The Silense of the Old School*) placed in the top 16 out of 130 entries
 - **Portti (2024)**, sci-fi and fantasy writing contest for short stories, Tampere Science Fiction Society.
   - *Kaislameri* (*The Reed Sea*) received an honorable mention, placing in the top 14 of 145 entries.
   - *Kun tähdet olivat oikein* (*When the Stars Were Right*) was selected for the final round, ranked in the top 35.
