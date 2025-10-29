@@ -18,6 +18,7 @@
 - 🌐 [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
 - 📝 [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
 - 📄 [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
+- 📄 [Verkkosivut ja tietopaketit / Webpages and info packages](#verkkosivut-ja-tietopaketit)
 - 🎓 [Opinnäytetyöt / Theses](#opinnäytetyöt)
 - 🧠 [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)
   
@@ -143,10 +144,10 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 
 ---
 
-## Verkkosivut
-🏆 ***Webpages***
+## Verkkosivut ja tietopaketit
+🏆 ***Webpages and info packages***
 
-- Niemi, E. 2025. *Kokonaisarkktiethuurin tietopaketti*. [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
+- Niemi, E. 2025. *Kokonaisarkkitehtuuri – tietopaketti ja verkkosivusto*. [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
 
 ---
 
