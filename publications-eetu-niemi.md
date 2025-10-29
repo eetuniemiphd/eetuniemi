@@ -15,10 +15,10 @@
 - 🧸 [Lastenkirjat / Children's Books](#lastenkirjat)
 - ✍️ [Novellit / Short Stories](#novellit)
 - 📰 [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
-- 🌐 [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
+- 🖊️ [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
 - 📝 [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
 - 📄 [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
-- 📄 [Verkkosivut ja tietopaketit / Webpages and info packages](#verkkosivut-ja-tietopaketit)
+- 🌐 [Omat verkkosivut ja tietopaketit / Own Webpages and Info Packages](#omat-verkkosivut-ja-tietopaketit)
 - 🎓 [Opinnäytetyöt / Theses](#opinnäytetyöt)
 - 🧠 [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)
   
@@ -107,7 +107,7 @@
 ---
 
 ##  Omat blogit ja uutiskirjeet
-🌐 ***Own Blogs and Newsletters***
+🖊️ ***Own Blogs and Newsletters***
 
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
 - [IT Consulting Career Hub](https://www.itconsultingcareer.com)
@@ -144,8 +144,8 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 
 ---
 
-## Verkkosivut ja tietopaketit
-🏆 ***Webpages and info packages***
+## Omat verkkosivut ja tietopaketit
+🌐 ***Own Webpages and Info Packages***
 
 - Niemi, E. 2025. *Kokonaisarkkitehtuuri – tietopaketti ja verkkosivusto*. [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
 
