@@ -136,10 +136,17 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Raportit ja white paperit
 📄 ***Reports and White Papers***
 
-- Forsblom, O., Niemi, E., Miettinen, O. & Aaltonen, A. &  2024. *Modelling Handbook for Enterprise and Solution Architecture*. Coala Oy. [Download publication from Coala's webpage (PDF)](https://coala.fi/en/services/downloads)
-- Niemi, E., Aaltonen, A. & Forsblom, O. 2022. *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja (Modeling Handbook for Enterprise and Solution Architecture)*. Coala Oy. [Download publication from Coala's webpage (PDF)](https://coala.fi/ajankohtaista/lataukset)
-- Niemi, E. 2016. *IAM haltuun ymmärtämällä kokonaisuus (Getting a Grip on IAM by Understanding the Big Picture)* . Coala Oy, White Paper 01/2016. [Download publication from Coala's webpage (PDF)](https://coala.fi/files/Coala-White-Paper-01-2016_IAM-haltuun-ymm%C3%A4rt%C3%A4m%C3%A4ll%C3%A4-kokonaisuus.pdf)
-- Niemi, E. 2016. *Näin onnistut IAM:in käyttöönotossa (How to Succeed in IAM Implementation)*. Coala Oy, White Paper 02/2016. [Download publication from Coala's webpage (PDF)](https://coala.fi/files/Coala-White-Paper-02-2016_N%C3%A4in-onnistut-IAMin-k%C3%A4ytt%C3%B6%C3%B6notossa.pdf)
+- Forsblom, O., Niemi, E., Miettinen, O. & Aaltonen, A. &  (2024). *Modelling Handbook for Enterprise and Solution Architecture*. Coala Oy. [Download publication from Coala's webpage (PDF)](https://coala.fi/en/services/downloads)
+- Niemi, E., Aaltonen, A. & Forsblom, O. (2022). *Kokonais- ja ratkaisuarkkitehtuurin mallinnuskäsikirja (Modeling Handbook for Enterprise and Solution Architecture)*. Coala Oy. [Download publication from Coala's webpage (PDF)](https://coala.fi/ajankohtaista/lataukset)
+- Niemi, E. (2016). *IAM haltuun ymmärtämällä kokonaisuus (Getting a Grip on IAM by Understanding the Big Picture)* . Coala Oy, White Paper 01/2016. [Download publication from Coala's webpage (PDF)](https://coala.fi/files/Coala-White-Paper-01-2016_IAM-haltuun-ymm%C3%A4rt%C3%A4m%C3%A4ll%C3%A4-kokonaisuus.pdf)
+- Niemi, E. (2016). *Näin onnistut IAM:in käyttöönotossa (How to Succeed in IAM Implementation)*. Coala Oy, White Paper 02/2016. [Download publication from Coala's webpage (PDF)](https://coala.fi/files/Coala-White-Paper-02-2016_N%C3%A4in-onnistut-IAMin-k%C3%A4ytt%C3%B6%C3%B6notossa.pdf)
+
+---
+
+## Verkkosivut
+🏆 ***Webpages***
+
+- Niemi, E. 2025. *Kokonaisarkktiethuurin tietopaketti*. [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
 
 ---
 
