@@ -12,7 +12,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Esitykset
 
-- **18.6.2024 – Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)**: *Kyvykkyydet kokonaisarkkitehtuurissa* [Tallenne ja esitysmateriaali (PDF)](https://kehittajille.suomi.fi/palvelut/kokonaisarkkitehtuuri/koulutusmateriaalit)
+- **18.6.2024 – Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)**: *Kyvykkyydet kokonaisarkkitehtuurissa* [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
 
 - **14.12.2021 – Coala-webinaari (Oppia.fi)**: *Sisältö edellä arkkitehtuurissa* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/995/coala/sisalto-edella-arkkitehtuurissa)
 
