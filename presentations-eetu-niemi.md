@@ -1,4 +1,4 @@
-# Julkiset esitykset suomeksi / Public presentations in Finnish
+# Esitykset / Presentations
 
 **Eetu Niemi, PhD**
 
@@ -6,7 +6,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ---
 
-## Sisällysluettelo
+## Sisällysluettelo / Table of Contents
 
 - [Esitykset](#esitykset)
 
