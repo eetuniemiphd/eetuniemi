@@ -15,7 +15,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 ## Julkiset esitykset
 **Public Presentations**
 
-- **30.10.2025 – esitys**: *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*
+- **30.10.2025 – Esitys**: *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*
   
 - **22.10.2025 – esitys**: *Kirjajulkkarit: Enterprise Architecture – Your Guide to Organizational Transformation*
 
