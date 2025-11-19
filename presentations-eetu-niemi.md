@@ -64,9 +64,9 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Oppilaitosyhteistyö ja luennot
 
-- **6.11.2025 – Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu)** Kutsuttu puhujana.
+- **6.11.2025 – Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu)**: *Kokonaisarkkitehtuuri käytännössä* Kutsuttu puhuja.
 
-- **29.10.2025 – Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu). Kutsuttu puhujana.
+- **29.10.2025 – Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu). Kutsuttu puhuja.
 
 - **18.9.2025 – Q&A-tilaisuus kokonaisarkkitehtuuriin liittyvällä opintojaksolla (Lapin AMK)**
 
