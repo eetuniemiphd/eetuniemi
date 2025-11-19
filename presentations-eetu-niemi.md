@@ -10,9 +10,9 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - [Esitykset](#julkiset-esitykset)
 
-## Julkiset
+## Julkiset esitykset
 
-- **9.10.2025 – Koulutus Digikyvykkyys-hankkeessa**: *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?*. Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
+- **9.10.2025 – Koulutus Digikyvykkyys-hankkeessa**: *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?* Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
 
 - **18.6.2024 – Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)**: *Kyvykkyydet kokonaisarkkitehtuurissa* [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
 
@@ -47,3 +47,25 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - **11.10.2017 – Coala-webinaari (Oppia.fi)**: *Kokonaisarkkitehtuurin hyödyt* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/138/coala/webinaari-kokonaisarkkitehtuurin-hyodyt)
 
 - **25.8.2017 – Coala-webinaari (Oppia.fi)**: *IAM:sta apua GDPR-valmistautumiseen* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
+
+## Ei-julkiset esitykset
+
+- **25.9.2025 – Enterprise Architecture 2025 -tapahtuma**. Kutsuttu puhuja.
+
+- **13.11.2024 – Työ- ja elinkeinoministeriön arkkitehtuuriverkosto**. Kutsuttu puhuja.
+
+- **24.9.2024 – Enterprise Architecture 2024 -tapahtuma**. Kutsuttu puhuja.
+
+## Oppilaitosyhteistyö ja luennot
+
+- **6.11.2025 – Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu)** Kutsuttu puhujana.
+
+- **29.10.2025 – Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu). Kutsuttu puhujana.
+
+- **18.9.2025 – Q&A-tilaisuus kokonaisarkkitehtuuriin liittyvällä opintojaksolla (Lapin AMK)**
+
+- **25.9.2025 – Esitys Dumppi ry:n excursiolla CGI:llä**. Kutsuttu puhujana.
+
+- **21.11.2024 – Esitys IT-tradenomeille (Haaga-Helia ammattikorkeakoulu).
+
+
