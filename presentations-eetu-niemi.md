@@ -8,9 +8,9 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Sisällysluettelo / Table of Contents
 
-- [Esitykset](#esitykset)
+- [Esitykset](#julkiset-esitykset)
 
-## Esitykset
+## Julkiset
 
 - **18.6.2024 – Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)**: *Kyvykkyydet kokonaisarkkitehtuurissa* [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
 
