@@ -9,8 +9,8 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 ## Sisällysluettelo / Table of Contents
 
 - [Julkiset esitykset / Public presentations](#julkiset-esitykset)
-- [Ei-julkiset esitykset](#ei-julkiset-esitykset)
-- [Oppilaitosyhteistyö ja luennot](#oppilaitosyhteistyö-ja-luennot)
+- [Ei-julkiset esitykset / Non-Public Presentations](#ei-julkiset-esitykset)
+- [Oppilaitosyhteistyö ja luennot / University Cooperation and Lectures](#oppilaitosyhteistyö-ja-luennot)
 
 ## Julkiset esitykset
 **Public Presentations**
@@ -19,7 +19,11 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
   
 - 22.10.2025 *Kirjajulkkarit: Enterprise Architecture – Your Guide to Organizational Transformation*.
 
+- 25.9.2025 *Kokonaisarkkitehtuurin viitekehykset*, Enterprise Architecture 2025 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
+
 - 9.10.2024 *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?*. Koulutus Digikyvykkyys-hankkeessa. Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
+
+- 24.9.2024 *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Enterprise Architecture 2024 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 
 - 18.6.2024 *Kyvykkyydet kokonaisarkkitehtuurissa*. Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)*. [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
 
@@ -53,30 +57,26 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - 11.10.2017 *Kokonaisarkkitehtuurin hyödyt*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/138/coala/webinaari-kokonaisarkkitehtuurin-hyodyt)
 
-- 25.8.2017 *IAM:sta apua GDPR-valmistautumiseen* . Coalan webinaari (Oppia.fi).[Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
+- 25.8.2017 *IAM:sta apua GDPR-valmistautumiseen*. Coalan webinaari (Oppia.fi).[Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
 
 ## Ei-julkiset esitykset
 **Non-Public Presentations**
 
-- **25.9.2025 – Enterprise Architecture 2025 -tapahtuma**: *Kokonaisarkkitehtuurin viitekehykset*. Kutsuttu puhuja.
+Työnantajan ja asiakastoimeksiantojen sisällä ppidettyjä esityksiä ei ole mainittu.
 
-- **13.11.2024 – Työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto**: *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen* Kutsuttu puhuja.
-
-- **24.9.2024 – Enterprise Architecture 2024 -tapahtuma**: *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Kutsuttu puhuja.
+- 13.11.2024 *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen*, työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 
 ## Oppilaitosyhteistyö ja luennot
-**Cooperation and Lectures**
+**University Cooperation and Lectures**
 
-- **6.11.2025 – Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu)**: *Kokonaisarkkitehtuuri käytännössä* Kutsuttu puhuja.
+- 6.11.2025 *Kokonaisarkkitehtuuri käytännössä*. Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu), kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 
-- **29.10.2025 – Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu)**: *Eetu Niemi: arkkitehtuurikonsultti*. Kutsuttu puhuja.
+- 29.10.2025 *Eetu Niemi: arkkitehtuurikonsultti*. Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu), kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 
-- **18.9.2025 – Q&A-tilaisuus kokonaisarkkitehtuuriin liittyvällä opintojaksolla (Lapin AMK)**
+- 18.9.2025 *Q&A-tilaisuus kokonaisarkkitehtuuriin liittyvällä opintojaksolla*. (Lapin AMK). Materiaalit eivät julkisesti saatavilla.
 
-- **25.9.2025 – Esitys Dumppi ry:n excursiolla CGI:llä**: *Eetu Niemi: arkkitehtuurikonsultti*. Kutsuttu puhuja.
+- 25.9.2025 *Eetu Niemi: arkkitehtuurikonsultti*. Esitys Dumppi ry:n excursiolla CGI:llä, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 
-- **21.11.2024 – Esitys IT-tradenomeille (Haaga-Helia ammattikorkeakoulu)**: *Eetu Niemi: arkkitehtuurikonsultti*
+- 21.11.2024 *Eetu Niemi: arkkitehtuurikonsultti*. Esitys IT-tradenomeille (Haaga-Helia ammattikorkeakoulu). Materiaalit eivät julkisesti saatavilla.
 
-- **29.4.2024 – Esitys kurssilla IT Operations and Enterprise Architectures (Jyväskylän yliopisto)**: *Uravalintana arkkitehtuurikonsultti*
-
-
+- 29.4.2024 *Uravalintana arkkitehtuurikonsultti*. Esitys kurssilla IT Operations and Enterprise Architectures (Jyväskylän yliopisto). Materiaalit eivät julkisesti saatavilla.
