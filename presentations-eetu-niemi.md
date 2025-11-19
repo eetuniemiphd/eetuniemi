@@ -56,7 +56,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Ei-julkiset esitykset
 
-- **25.9.2025 – Enterprise Architecture 2025 -tapahtuma**. Kutsuttu puhuja.
+- **25.9.2025 – Enterprise Architecture 2025 -tapahtuma**: *Kokonais-arkkitehtuurinviitekehykset*. Kutsuttu puhuja.
 
 - **13.11.2024 – Työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto**: *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen* Kutsuttu puhuja.
 
@@ -66,7 +66,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - **6.11.2025 – Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu)**: *Kokonaisarkkitehtuuri käytännössä* Kutsuttu puhuja.
 
-- **29.10.2025 – Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu). Kutsuttu puhuja.
+- **29.10.2025 – Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu)**: *Eetu Niemi: arkkitehtuurikonsultti*. Kutsuttu puhuja.
 
 - **18.9.2025 – Q&A-tilaisuus kokonaisarkkitehtuuriin liittyvällä opintojaksolla (Lapin AMK)**
 
