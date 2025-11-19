@@ -70,4 +70,6 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - **21.11.2024 – Esitys IT-tradenomeille (Haaga-Helia ammattikorkeakoulu).
 
+- **29.4.2024 – Esitys kurssilla IT Operations and Enterprise Architectures (Jyväskylän yliopisto)**: *Uravalintana arkkitehtuurikonsultti*
+
 
