@@ -58,7 +58,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - **25.9.2025 – Enterprise Architecture 2025 -tapahtuma**. Kutsuttu puhuja.
 
-- **13.11.2024 – Työ- ja elinkeinoministeriön arkkitehtuuriverkosto**. Kutsuttu puhuja.
+- **13.11.2024 – Työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto**: *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen* Kutsuttu puhuja.
 
 - **24.9.2024 – Enterprise Architecture 2024 -tapahtuma**. Kutsuttu puhuja.
 
