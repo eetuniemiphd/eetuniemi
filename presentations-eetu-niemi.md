@@ -8,7 +8,9 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Sisällysluettelo / Table of Contents
 
-- [Esitykset](#julkiset-esitykset)
+- [Julkiset esitykset](#julkiset-esitykset)
+- [Ei-julkiset esitykset](#ei-julkiset-esitykset)
+- [Oppilaitosyhteistyö ja luennot](#oppilaitosyhteistyö-ja-luennot)
 
 ## Julkiset esitykset
 
