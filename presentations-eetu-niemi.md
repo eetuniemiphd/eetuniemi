@@ -60,7 +60,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 - **13.11.2024 – Työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto**: *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen* Kutsuttu puhuja.
 
-- **24.9.2024 – Enterprise Architecture 2024 -tapahtuma**. Kutsuttu puhuja.
+- **24.9.2024 – Enterprise Architecture 2024 -tapahtuma**: *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Kutsuttu puhuja.
 
 ## Oppilaitosyhteistyö ja luennot
 
