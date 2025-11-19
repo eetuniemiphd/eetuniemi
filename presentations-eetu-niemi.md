@@ -8,11 +8,12 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 
 ## Sisällysluettelo / Table of Contents
 
-- [Julkiset esitykset](#julkiset-esitykset)
+- [Julkiset esitykset / Public presentations](#julkiset-esitykset)
 - [Ei-julkiset esitykset](#ei-julkiset-esitykset)
 - [Oppilaitosyhteistyö ja luennot](#oppilaitosyhteistyö-ja-luennot)
 
 ## Julkiset esitykset
+**Public Presentations**
 
 - **30.10.2025 – esitys**: *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*
   
@@ -55,6 +56,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - **25.8.2017 – Coala-webinaari (Oppia.fi)**: *IAM:sta apua GDPR-valmistautumiseen* [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
 
 ## Ei-julkiset esitykset
+**Non-Public Presentations**
 
 - **25.9.2025 – Enterprise Architecture 2025 -tapahtuma**: *Kokonaisarkkitehtuurin viitekehykset*. Kutsuttu puhuja.
 
@@ -63,6 +65,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 - **24.9.2024 – Enterprise Architecture 2024 -tapahtuma**: *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Kutsuttu puhuja.
 
 ## Oppilaitosyhteistyö ja luennot
+**Cooperation and Lectures**
 
 - **6.11.2025 – Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu)**: *Kokonaisarkkitehtuuri käytännössä* Kutsuttu puhuja.
 
