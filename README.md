@@ -19,7 +19,7 @@
 - 🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 - 📖 [Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)
 - 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
-- 📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)]([https://itconsulting.eetuniemi.net)
+- 📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)](https://itconsulting.eetuniemi.net)
 - 📕 [Pohjoisen tie (book, FI)](https://pohjoisentie.eetuniemi.fi)
 - ✍️ [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)
 - 💼 [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)
