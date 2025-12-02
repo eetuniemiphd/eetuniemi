@@ -155,7 +155,7 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Opinnäytetyöt
 🎓 ***Theses***
 
-- Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. [URN](https://urn.fi/URN:ISBN:978-952-15-3850-6)  
+- Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. https://urn.fi/URN:ISBN:978-952-15-3850-6
 - Niemi, E. (2005). *Ohjelmistotuotteen käyttöönotto telepalvelualan suuryrityksessä* (*Implementation of a Software Product in a Telecom Corporation*). University of Jyväskylä.
 
 ---
@@ -164,8 +164,8 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 🧠 ***Academic Publications***
 
 - Niemi, E. & Pekkola, S. (2020). The Benefits of Enterprise Architecture in Organizational Transformation. Business & Information Systems Engineering 62, 585–597. https://doi.org/10.1007/s12599-019-00605-3
-- Niemi, E. & Pekkola, S. (2016). Enterprise architecture benefit realization: Review of the models and a case study of a public organization. SIGMIS Database 47(3).
-- Niemi, E. & Pekkola, S. (2015). Using enterprise architecture artifacts in an organisation. Enterprise Information Systems, s. 1–26.
+- Niemi, E. & Pekkola, S. (2016). Enterprise architecture benefit realization: Review of the models and a case study of a public organization. SIGMIS Database 47(3). https://doi.org/10.1145/2980783.2980787
+- Niemi, E. & Pekkola, S. (2015). Using enterprise architecture artifacts in an organisation. Enterprise Information Systems, s. 1–26. https://doi.org/10.1080/17517575.2015.1048831
 - Niemi, E. (2013). Quality attributes for enterprise architecture processes. Journal of Enterprise Architecture 9(1), s. 8–16.
 - Niemi, E. & Pekkola, S. (2013). Enterprise architecture quality attributes: A case study. Teoksessa Sprague, R.H., Jr. (toim.), Proceedings of 46th Hawaii International Conference on Systems Science (s. 3878–3887). Los Alamitos, CA: IEEE Computer Society.
 - Niemi, E. & Pekkola, S. (2009). Adapting the DeLone and McLean model for the enterprise architecture benefit realization process. Teoksessa Sprague, R.H., Jr. (toim.), Proceedings of the 42th Hawaii International Conference on Systems Science (s. 1–10). Los Alamitos, CA: IEEE Computer Society.
