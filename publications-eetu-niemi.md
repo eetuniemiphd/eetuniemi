@@ -72,8 +72,8 @@
 
 - Niemi, E. (2025).*Vanhan koulun hiljaisuus* (*The Silense of the Old School*). Published in [*Muistelmia ja mustelmia: tarinoita koulusta*](https://www.aviador.fi/product-page/muistelmia-ja-mustelmia-tarinoita-koulusta) (*Memoirs and Bruises: Stories from School*). Aviador Publishing.  
 - Niemi, E. (2024). *Kaislameri* (*The Reed Sea*). Published in *Portti* 4/2024. Tampere Science Fiction Society.  
-- Niemi, E. (2024). *Kuoleman koodi* (*The Death Code*). Published in *Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024* (*Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest*). City of Kouvola.  
-- Niemi, E. (2022). *Väläyksiä kuvaruudulla* (*Flashes on the Screen*). Published in *Pullopostia mereltä* (*Messages in a Bottle from the Sea*). Aviador Publishing.  
+- Niemi, E. (2024). *Kuoleman koodi* (*The Death Code*). Published in [*Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024*](https://www.suomalainen.com/products/tekoaly-ja-rikos) (*Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest*). City of Kouvola.  
+- Niemi, E. (2022). *Väläyksiä kuvaruudulla* (*Flashes on the Screen*). Published in  8*Pullopostia mereltä*](https://www.aviador.fi/product-page/pullopostia-merelt%C3%A4) (*Messages in a Bottle from the Sea*). Aviador Publishing.  
 
 ---
 
