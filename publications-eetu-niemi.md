@@ -16,6 +16,7 @@
 - ✍️ [Novellit / Short Stories](#novellit)
 - 📰 [Lehtiartikkelit / Magazine Articles](#lehtiartikkelit)
 - 🖊️ [Omat blogit ja uutiskirjeet / Own Blogs and Newsletters](#omat-blogit-ja-uutiskirjeet)
+- 📰 [Artikkelit ja esseet alustoilla / Articles and Essays on Platforms](#artikkelit-ja-esseet-alustoilla)
 - 📝 [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)
 - 📄 [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)
 - 🌐 [Omat verkkosivut ja tietopaketit / Own Webpages and Info Packages](#omat-verkkosivut-ja-tietopaketit)
@@ -111,6 +112,12 @@
 
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
 - [IT Consulting Career Hub](https://www.itconsultingcareer.com)
+
+---
+
+##  Artikkelit ja esseet alustoilla
+📰 ***Articles and Essays on Platforms***
+
 - [Medium](https://medium.com/@eetuniemi)
 
 ---
