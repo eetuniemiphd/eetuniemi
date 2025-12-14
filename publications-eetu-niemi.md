@@ -111,6 +111,7 @@
 
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
 - [IT Consulting Career Hub](https://www.itconsultingcareer.com)
+- [Medium](https://medium.com/@eetuniemi)
 
 ---
 
