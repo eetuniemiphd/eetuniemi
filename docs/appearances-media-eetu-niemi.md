@@ -1,4 +1,4 @@
-# 📰 Esiintymiset, haastattelut ja media / Appearances, interviews, and media
+# 📰 Esiintymiset, haastattelut ja media / Appearances, Interviews, and Media
 
 **Eetu Niemi, PhD**
 
