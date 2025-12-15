@@ -1,4 +1,4 @@
-# 📰 Esiintymiset, haastattelut ja media / Appearances, Interviews, and Media
+# Esiintymiset, haastattelut ja media / Appearances, Interviews, and Media
 **Eetu Niemi, PhD**
 
 🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
