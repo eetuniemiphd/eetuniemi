@@ -13,9 +13,15 @@
 
 ## Pikalinkit / Quick links
 
-- 📚 [**Julkaisut / Publications**](publications-eetu-niemi.md)**
-- 🎤 [**Esitykset / Presentations**](presentations-eetu-niemi.md)**
-- 📰 [**Media ja esiintymiset / Appearances & Media**](appearances-media-eetu-niemi.md)**
+- 📚 [**Julkaisut / Publications**](publications-eetu-niemi.md)
+- 🎤 [**Esitykset / Presentations**](presentations-eetu-niemi.md)
+- 📰 [**Media ja esiintymiset / Appearances & Media**](appearances-media-eetu-niemi.md)
+
+---
+
+## Nostoja / Featured Resources
+
+
 
 ---
 
