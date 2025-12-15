@@ -1,4 +1,4 @@
-# 📚 Julkaisuluettelo / List of Publications  
+# Julkaisuluettelo / List of Publications  
 **Eetu Niemi, PhD**
 
 🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
