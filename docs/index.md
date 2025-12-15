@@ -19,7 +19,7 @@
 
 ---
 
-## 🔗 Pikalinkit / Quick Links
+## Pikalinkit / Quick Links
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
 - 🔗 [Instagram](https://www.instagram.com/eetuniemi.author)
