@@ -5,7 +5,7 @@ repo_url: https://github.com/eetuniemiphd/eetuniemi
 theme:
   name: material
   language: en
-  logo:
+  logo: eetu-niemi-publications-logo.png
   palette:
     primary: black
     accent: deep orange
