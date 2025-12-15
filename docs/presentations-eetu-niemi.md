@@ -1,4 +1,4 @@
-# 🎤 Esitykset / Presentations
+# Esitykset / Presentations
 **Eetu Niemi, PhD**
 
 🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
