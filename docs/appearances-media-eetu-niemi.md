@@ -1,8 +1,7 @@
 # 📰 Esiintymiset, haastattelut ja media / Appearances, Interviews, and Media
-
 **Eetu Niemi, PhD**
 
-Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.fi)**
+🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
 
 ---
 
