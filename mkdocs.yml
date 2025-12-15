@@ -1,0 +1,28 @@
+site_name: Eetu Niemi's Publications, Presentations and Public Appearances
+site_description: Eetu Niemi's Publications, Presentations and Public Appearances
+site_author: Eetu Niemi
+repo_url: https://github.com/eetuniemiphd/eetuniemi
+theme:
+  name: material
+  language: en
+  logo:
+  palette:
+    primary: black
+    accent: indigo
+  font:
+    text: Open Sans
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - HOME: index.md
+  - PUBLICATIONS: publications-eetu-niemi.md
+  - PRESENTATIONS: presentations-eetu-niemi.md
+  - APPEARANCES AND MEDIA: appearances-media-eetu-niemi.md
