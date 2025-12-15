@@ -22,7 +22,7 @@ theme:
     - content.code.copy
 
 nav:
-  - HOME: index.md
-  - PUBLICATIONS: publications-eetu-niemi.md
-  - PRESENTATIONS: presentations-eetu-niemi.md
-  - APPEARANCES AND MEDIA: appearances-media-eetu-niemi.md
+  - KOTI / HOME: index.md
+  - JULKAISUT / PUBLICATIONS: publications-eetu-niemi.md
+  - ESITYKSET / PRESENTATIONS: presentations-eetu-niemi.md
+  - MEDIS JA ESIINTYMISET / APPEARANCES AND MEDIA: appearances-media-eetu-niemi.md
