@@ -1,10 +1,6 @@
-# Esitykset / Presentations
+ 🎤 # Esitykset / Presentations
 
 **Eetu Niemi, PhD**
-
-Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.fi)**
-
----
 
 ## Sisällysluettelo / Table of Contents
 
