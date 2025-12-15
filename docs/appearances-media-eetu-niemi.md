@@ -14,7 +14,7 @@ Personal home page: **[EN](https://eetuniemi.net)** / **[FI](https://eetuniemi.f
 ## Haastattelut ja artikkelit
 **Interviews and Articles**
 
-- **29.4.2021 - Tivi**: *Näin loistat it-konsulttina – ”omaa osaamistaan pitää osata myydä”* [Artikkeli](https://www.tivi.fi/uutiset/a/4a161d91-55b9-4859-bd36-63da47538259)
+- **29.4.2021 - Tivi**: [*Näin loistat it-konsulttina – ”omaa osaamistaan pitää osata myydä”*](https://www.tivi.fi/uutiset/a/4a161d91-55b9-4859-bd36-63da47538259)
 
 ## Podcastit
 **Podcast Appearances**
