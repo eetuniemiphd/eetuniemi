@@ -1,6 +1,6 @@
-site_name: Eetu Niemi's Publications, Presentations and Public Appearances
-site_description: Eetu Niemi's Publications, Presentations and Public Appearances
-site_author: Eetu Niemi
+site_name: Eetu Niemi — Publications, Presentations & Public Appearances
+site_description: Curated list of Eetu Niemi’s professional, academic, and creative works, including books, articles, short stories, talks, and media appearances on enterprise architecture, consulting, and work life
+site_author: Eetu Niemi, PhD
 repo_url: https://github.com/eetuniemiphd/eetuniemi
 theme:
   name: material
