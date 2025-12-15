@@ -8,11 +8,11 @@ theme:
   logo:
   palette:
     primary: black
-    accent: indigo
+    accent: deep orange
   font:
     text: Open Sans
+    code: JetBrains Mono
   features:
-    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
@@ -20,6 +20,8 @@ theme:
     - toc.integrate
     - search.highlight
     - content.code.copy
+    - content.action.edit
+    - content.action.view
 
 nav:
   - KOTI / HOME: index.md
