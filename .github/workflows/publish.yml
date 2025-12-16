@@ -27,4 +27,4 @@ jobs:
 
       - name: Build and deploy
         run: |
-          mkdocs gh-deploy --force --clean --cname publications.eetuniemi.fi
+          mkdocs gh-deploy --force --clean
