@@ -7,7 +7,7 @@
 
 🗣️ Tämä sivusto ja kaikki siihen liittyvät luettelot ovat kaksikielisiä (FI/EN). Suomenkieliset julkaisun nimet sisältävät englanninkielisen käännöksen sulkeissa. Englanninkieliset julkaisut esitetään vain englanniksi.
 
-🗣️ This website and all related listings are bilingual (FI/EN). Finnish titles include English translations in parentheses. English-language publications are listed in English only.
+🗣️ This website and all related listings are bilingual (FI/EN). Finnish titles include English translations in parentheses. English-language publications are listed in English only. t
 
 ---
 
