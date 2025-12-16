@@ -21,19 +21,19 @@
 
 ## Pikalinkit / Quick Links
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)
-- 🔗 [Instagram](https://www.instagram.com/eetuniemi.author)
-- 🔗 [Facebook (author page)](https://www.facebook.com/profile.php?id=61577058500196)
-- 🔗 [Goodreads (author page)](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)
-- 🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
-- 📖 [Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)
-- 📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
-- 📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)](https://itconsulting.eetuniemi.net)
-- 📕 [Pohjoisen tie (novel, FI)](https://pohjoisentie.eetuniemi.fi)
-- ✍️ [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)
-- 💼 [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)
-- 📄 [Enterprise Architecture Benefit Realization (PhD Dissertation, EN)](http://urn.fi/URN:ISBN:978-952-15-3850-6)
-- 🧭 [Enterprise Architecture Information Package (FI)](https://kokonaisarkkitehtuuri.org)
+🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)  
+🔗 [Instagram](https://www.instagram.com/eetuniemi.author)  
+🔗 [Facebook (author page)](https://www.facebook.com/profile.php?id=61577058500196)  
+🔗 [Goodreads (author page)](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)  
+🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
+📖 [Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)  
+📚 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)  
+📒📘 [IT Consulting Career Books – Two practical guides for professionals (book, EN)](https://itconsulting.eetuniemi.net)  
+📕 [Pohjoisen tie (novel, FI)](https://pohjoisentie.eetuniemi.fi) 
+✍️ [Enterprise Architecture Transformation (blog/newsletter, EN)](https://www.eatransformation.com)  
+💼 [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)  
+📄 [Enterprise Architecture Benefit Realization (PhD Dissertation, EN)](http://urn.fi/URN:ISBN:978-952-15-3850-6)  
+🧭 [Enterprise Architecture Information Package (FI)](https://kokonaisarkkitehtuuri.org)  
 
 ---
 
