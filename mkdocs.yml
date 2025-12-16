@@ -22,9 +22,9 @@ theme:
     - toc.integrate
     - search.highlight
 
-  plugins:
-    - search
-        indexing: full
+plugins:
+  - search:
+      indexing: full
 
 nav:
   - KOTI / HOME: index.md
