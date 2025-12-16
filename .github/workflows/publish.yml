@@ -25,12 +25,6 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
-      - name: Build site
-        run: |
-          mkdocs build --clean --verbose
-          ls -la
-          ls -la site || true
-
       - name: Add CNAME
         run: |
           mkdir -p site
