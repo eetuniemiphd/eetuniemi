@@ -11,6 +11,8 @@ theme:
   palette:
     primary: black
     accent: deep orange
+  plugins:
+    - search
   font:
     text: Open Sans
     code: JetBrains Mono
