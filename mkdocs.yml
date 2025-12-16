@@ -23,8 +23,7 @@ theme:
     - search.highlight
 
 plugins:
-  - search:
-      indexing: full
+  - search
 
 nav:
   - KOTI / HOME: index.md
