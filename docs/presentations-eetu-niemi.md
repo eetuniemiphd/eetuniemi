@@ -3,11 +3,15 @@
 
 🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 
+---
+
 ## Sisällysluettelo / Table of Contents
 
-- [Julkiset esitykset / Public presentations](#julkiset-esitykset)
-- [Ei-julkiset esitykset / Non-Public Presentations](#ei-julkiset-esitykset)
-- [Oppilaitosyhteistyö ja luennot / University Cooperation and Lectures](#oppilaitosyhteistyö-ja-luennot)
+[Julkiset esitykset / Public presentations](#julkiset-esitykset)  
+[Ei-julkiset esitykset / Non-Public Presentations](#ei-julkiset-esitykset)  
+[Oppilaitosyhteistyö ja luennot / University Cooperation and Lectures](#oppilaitosyhteistyö-ja-luennot)
+
+---
 
 ## Julkiset esitykset
 **Public Presentations**
@@ -56,12 +60,16 @@
 
 - 25.8.2017 *IAM:sta apua GDPR-valmistautumiseen*. Coalan webinaari (Oppia.fi).[Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/135/coala/iamsta-apua-gdpr-valmistautumiseen)
 
+---
+
 ## Ei-julkiset esitykset
 **Non-Public Presentations**
 
 Työnantajan ja asiakastoimeksiantojen sisällä ppidettyjä esityksiä ei ole mainittu.
 
 - 13.11.2024 *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen*, työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
+
+---
 
 ## Oppilaitosyhteistyö ja luennot
 **University Cooperation and Lectures**
