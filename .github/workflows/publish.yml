@@ -25,10 +25,10 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
-      - name: Build and deploy
-        run: |
-          mkdocs gh-deploy --force --clean
-
       - name: Add CNAME
         run: |
           echo "publications.eetuniemi.fi" > site/CNAME
+
+      - name: Build and deploy
+        run: |
+          mkdocs gh-deploy --force --clean
