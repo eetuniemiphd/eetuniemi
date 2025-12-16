@@ -1,4 +1,4 @@
-# Eetu Niemi — Julkaisut, esitykset ja julkiset esiintymiset / Publications, Presentations and Public Appearances
+# Eetu Niemi – Julkaisut, esitykset ja julkiset esiintymiset / Publications, Presentations and Public Appearances
 
 
 **Tervetuloa.** Tämä sivusto on koottu ja jatkuvasti päivittyvä julkaisuluettelo ammatillisista, akateemisista ja luovista töistäni. Mukana ovat kirjat, artikkelit, esitykset ja mediaesiintymiset kokonaisarkkitehtuurin, konsultoinnin ja työelämän teemoista, sekä romaanit, lastenkirjat ja novellit.
