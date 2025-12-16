@@ -21,9 +21,6 @@ theme:
     - navigation.sections
     - toc.integrate
     - search.highlight
-    - content.code.copy
-    - content.action.edit
-    - content.action.view
 
 nav:
   - KOTI / HOME: index.md
