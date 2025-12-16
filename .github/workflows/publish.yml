@@ -27,4 +27,4 @@ jobs:
 
       - name: Build and deploy
         run: |
-          mkdocs gh-deploy --force
+          mkdocs gh-deploy --config-file mkdocs.yml
