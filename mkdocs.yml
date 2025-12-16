@@ -11,9 +11,6 @@ theme:
   palette:
     primary: black
     accent: deep orange
-  plugins:
-    - search
-        indexing: full
   font:
     text: Open Sans
     code: JetBrains Mono
@@ -24,6 +21,10 @@ theme:
     - navigation.sections
     - toc.integrate
     - search.highlight
+
+  plugins:
+    - search
+        indexing: full
 
 nav:
   - KOTI / HOME: index.md
