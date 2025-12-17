@@ -27,7 +27,7 @@ plugins:
       lang: [en, fi]
 
 nav:
-  - KOTI / HOME: index.md
+  - Koti / Home: index.md
   - Julkaisut / Publications: publications.md
   - Esitykset / Presentations: presentations.md
   - Media ja esiintymiset / Appearances and Media: appearances-media.md
