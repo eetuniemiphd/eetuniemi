@@ -174,13 +174,13 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Tieteelliset julkaisut
 🧠 ***Academic Publications***
 
-- Niemi, E. & Pekkola, S. (2020). The Benefits of Enterprise Architecture in Organizational Transformation. Business & Information Systems Engineering 62, 585–597. https://doi.org/10.1007/s12599-019-00605-3
-- Niemi, E. & Pekkola, S. (2016). Enterprise architecture benefit realization: Review of the models and a case study of a public organization. SIGMIS Database 47(3). https://doi.org/10.1145/2980783.2980787
-- Niemi, E. & Pekkola, S. (2015). Using enterprise architecture artifacts in an organisation. Enterprise Information Systems, s. 1–26. https://doi.org/10.1080/17517575.2015.1048831
+- Niemi, E. & Pekkola, S. (2020). [The Benefits of Enterprise Architecture in Organizational Transformation](https://doi.org/10.1007/s12599-019-00605-3). Business & Information Systems Engineering 62, 585–597.
+- Niemi, E. & Pekkola, S. (2016). [Enterprise architecture benefit realization: Review of the models and a case study of a public organization](https://doi.org/10.1145/2980783.2980787). SIGMIS Database 47(3).
+- Niemi, E. & Pekkola, S. (2015). [Using enterprise architecture artifacts in an organisation](https://doi.org/10.1080/17517575.2015.1048831). Enterprise Information Systems, s. 1–26.
 - Niemi, E. (2013). Quality attributes for enterprise architecture processes. Journal of Enterprise Architecture 9(1), s. 8–16.
 - Niemi, E. & Pekkola, S. (2013). Enterprise architecture quality attributes: A case study. Teoksessa Sprague, R.H., Jr. (toim.), Proceedings of 46th Hawaii International Conference on Systems Science (s. 3878–3887). Los Alamitos, CA: IEEE Computer Society.
 - Niemi, E. & Pekkola, S. (2009). Adapting the DeLone and McLean model for the enterprise architecture benefit realization process. Teoksessa Sprague, R.H., Jr. (toim.), Proceedings of the 42th Hawaii International Conference on Systems Science (s. 1–10). Los Alamitos, CA: IEEE Computer Society.
-- Niemi, E., Ylimäki, T. & Hämäläinen, N. (toim.). (2008). Evaluation of Enterprise and Software Architectures - Critical Issues, Metrics and Practices. (Tietotekniikan tutkimusinstituutin julkaisuja). Jyväskylä: Jyväskylän yliopisto. https://jyx.jyu.fi/handle/123456789/41461
+- Niemi, E., Ylimäki, T. & Hämäläinen, N. (toim.). (2008). [Evaluation of Enterprise and Software Architectures - Critical Issues, Metrics and Practices](https://jyx.jyu.fi/handle/123456789/41461). (Tietotekniikan tutkimusinstituutin julkaisuja). Jyväskylä: Jyväskylän yliopisto. 
 - Niemi, E. (2007). Enterprise architecture stakeholders—A holistic view. Teoksessa Hoxmeier J.A. & Hayne, S. (toim.), Proceedings of the 13th Americas Conference on Information Systems (9 sivua). Atlanta, GA: Association for Information Systems.
 - Niemi, E. & Ylimäki, T. (2007). Defining Enterprise Architecture Risks in Business Environment. Teoksessa Proceedings of the EBRF 2007 Conference. Jyväskylä.
 - Ylimäki, T., Niemi, E. & Hämäläinen, N. (2007). Enterprise Architecture Compliance: the Viewpoint of Evaluation. Teoksessa Proceedings of the European Conference on Information Management and Evaluation (ECIME 2007).
