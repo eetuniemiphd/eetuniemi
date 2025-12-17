@@ -28,6 +28,6 @@ plugins:
 
 nav:
   - KOTI / HOME: index.md
-  - JULKAISUT / PUBLICATIONS: publications-eetu-niemi.md
-  - ESITYKSET / PRESENTATIONS: presentations-eetu-niemi.md
-  - MEDIA JA ESIINTYMISET / APPEARANCES AND MEDIA: appearances-media-eetu-niemi.md
+  - Julkaisut / Publications: publications.md
+  - Esitykset / Presentations: presentations.md
+  - Media ja esiintymiset / Appearances and Media: appearances-media.md
