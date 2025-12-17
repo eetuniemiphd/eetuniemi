@@ -20,7 +20,7 @@
 📰 [Artikkelit ja esseet alustoilla / Articles and Essays on Platforms](#artikkelit-ja-esseet-alustoilla)  
 📝 [Valikoituja blogikirjoituksia / Selected Blog Posts](#valikoituja-blogikirjoituksia)  
 📄 [Raportit ja white paperit / Reports and White Papers](#raportit-ja-white-paperit)  
-🌐 [Omat verkkosivut ja tietopaketit / Own Webpages and Info Packages](#omat-verkkosivut-ja-tietopaketit)  
+🌐 [Omat sivustot ja työkalut / Own Webpages and Tools](#omat-sivustot-ja-tyokalut)  
 🎓 [Opinnäytetyöt / Theses](#opinnäytetyöt)  
 🧠 [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)  
   
@@ -154,10 +154,11 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 
 ---
 
-## Omat verkkosivut ja tietopaketit
-🌐 ***Own Webpages and Info Packages***
+## Omat sivustot ja työkalut
+🌐 ***Own Webpages and Tools***
 
 - Niemi, E. 2025. *Kokonaisarkkitehtuuri – tietopaketti ja verkkosivusto*. [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
+- Niemi, E. 2025. [*Eetu Niemi's Enterprise Architecture Assistant*](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant). Custom GPT for practical, lightweight enterprise architecture work.
 
 ---
 
