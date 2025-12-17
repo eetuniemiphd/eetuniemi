@@ -157,8 +157,9 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Omat sivustot ja työkalut
 🌐 ***Own Webpages and Tools***
 
-- Niemi, E. 2025. *Kokonaisarkkitehtuuri – tietopaketti ja verkkosivusto*. [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
+- Niemi, E. 2025. *Mikä on kokonaisarkkitehtuuri ja miten se auttaa organisaatioita kehittymään*. [Tietopaketti ja verkkosivusto: kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
 - Niemi, E. 2025. [*Eetu Niemi's Enterprise Architecture Assistant*](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant). Custom GPT for practical, lightweight enterprise architecture work.
+- Niemi, E. 2025. *GitHub repository*. [github.com/eetuniemiphd/eetuniemi](https://github.com/eetuniemiphd/eetuniemi)
 
 ---
 
