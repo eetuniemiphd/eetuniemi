@@ -9,7 +9,7 @@
 
 [Julkiset esitykset / Public presentations](#julkiset-esitykset)  
 [Ei-julkiset esitykset / Non-Public Presentations](#ei-julkiset-esitykset)  
-[Oppilaitosyhteistyö ja luennot / University Cooperation and Lectures](#oppilaitosyhteistyö-ja-luennot)
+[Oppilaitosyhteistyö ja luennot / University Cooperation and Lectures](#oppilaitosyhteistyo-ja-luennot)
 
 ---
 
