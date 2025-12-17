@@ -166,7 +166,7 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Opinnäytetyöt
 🎓 ***Theses***
 
-- Niemi, E. (2016). *Enterprise Architecture Benefit Realization*. PhD Dissertation. Tampere University of Technology. https://urn.fi/URN:ISBN:978-952-15-3850-6
+- Niemi, E. (2016). [*Enterprise Architecture Benefit Realization*](https://urn.fi/URN:ISBN:978-952-15-3850-6). PhD Dissertation. Tampere University of Technology.
 - Niemi, E. (2005). *Ohjelmistotuotteen käyttöönotto telepalvelualan suuryrityksessä* (*Implementation of a Software Product in a Telecom Corporation*). University of Jyväskylä.
 
 ---
