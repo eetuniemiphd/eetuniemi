@@ -34,6 +34,7 @@
 💼 [IT Consulting Career Hub (blog/newsletter, EN)](https://www.itconsultingcareer.com)  
 📄 [Enterprise Architecture Benefit Realization (PhD Dissertation, EN)](http://urn.fi/URN:ISBN:978-952-15-3850-6)  
 🧭 [Enterprise Architecture Information Package (FI)](https://kokonaisarkkitehtuuri.org)  
+🤖 [Eetu Niemi's Enterprise Architecture AI Assistant (Custom GPT)](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant)
 
 ---
 
