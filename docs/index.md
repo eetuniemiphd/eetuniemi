@@ -36,6 +36,8 @@
 🧭 [Enterprise Architecture Information Package (FI)](https://kokonaisarkkitehtuuri.org)  
 🤖 [Eetu Niemi's Enterprise Architecture AI Assistant (Custom GPT)](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant)
 
+---
+
 ## Kirjastoluettelot / Library Listings
 
 Julkaisuni on koottu myös suomalaiseen kirjastotietokantaan (Finna) / My publications are also listed in the Finnish national and public library database (Finna).
