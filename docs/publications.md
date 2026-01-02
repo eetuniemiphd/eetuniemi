@@ -23,6 +23,7 @@
 🌐 [Omat sivustot ja työkalut / Own Webpages and Tools](#omat-sivustot-ja-tyokalut)  
 🎓 [Opinnäytetyöt / Theses](#opinnäytetyöt)  
 🧠 [Tieteelliset julkaisut / Academic Publications](#tieteelliset-julkaisut)  
+📂 [Kokoelmat ja kuratoidut julkaisut / Curated Collections & Platforms](#kokoelmat-ja-kuratoidut-julkaisut)
   
 ---
 
@@ -157,9 +158,11 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Omat sivustot ja työkalut
 🌐 ***Own Webpages and Tools***
 
-- Niemi, E. 2025. *Mikä on kokonaisarkkitehtuuri ja miten se auttaa organisaatioita kehittymään*. Tietopaketti ja verkkosivusto [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
-- Niemi, E. 2025. [*Eetu Niemi's Enterprise Architecture Assistant*](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant). Custom GPT for practical, lightweight enterprise architecture work.
-- Niemi, E. 2025. *GitHub repository*. [github.com/eetuniemiphd/eetuniemi](https://github.com/eetuniemiphd/eetuniemi)
+- *Mikä on kokonaisarkkitehtuuri ja miten se auttaa organisaatioita kehittymään*. Tietopaketti ja verkkosivusto / Information package and webpage [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
+- [*Eetu Niemi's Enterprise Architecture Assistant*](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant). Kokonaisarkkitehtuurin tekoälyapuri / Custom GPT for practical, lightweight enterprise architecture work.
+- *GitHub repository Eetu Niemi*. [github.com/eetuniemiphd/eetuniemi](https://github.com/eetuniemiphd/eetuniemi)
+- *GitHub repository Kokonaisarkkitehtuuri*.[github.com/eetuniemiphd/kokonaisarkkitehtuuri](https://github.com/eetuniemiphd/kokonaisarkkitehtuuri)  
+-  *GitHub repository Enteprise Architecture*.[github.com/eetuniemiphd/enterprisearchitecture](https://github.com/eetuniemiphd/enterprisearchitecture)
 
 ---
 
@@ -190,3 +193,11 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 - Niemi, E. (2006). Architectural Work Status: Challenges and Developmental Potential - A Case Study of Three Finnish Business Enterprises. Teoksessa Proceedings of the 6th WSEAS International Conference on Applied Computer Science (ACS'06).
 - Niemi, E. (2006). Enterprise Architecture Benefits: Perceptions from Literature and Practice. Teoksessa Proceedings of the 7th IBIMA Conference on Internet & Information Systems in the Digital Age.
 - Niemi, E. (2006). “Enterprise Architecture Work Overview in Three Finnish Business Enterprise”s. WSEAS Transactions on Business and Economics 3(9).
+
+---
+
+## Kokoelmat ja kuratoidut julkaisut
+📂 ***Curated Collections & Platforms***
+
+- [Diigo](https://www.diigo.com/user/eetuniemi)
+- [Wakelet](https://wakelet.com/@EetuNiemi)
