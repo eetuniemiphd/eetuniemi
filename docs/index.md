@@ -7,7 +7,7 @@
 
 🗣️ Tämä sivusto ja kaikki siihen liittyvät luettelot ovat kaksikielisiä (FI/EN). Suomenkieliset julkaisun nimet sisältävät englanninkielisen käännöksen sulkeissa. Englanninkieliset julkaisut esitetään vain englanniksi.
 
-🗣️ This website and all related listings are bilingual (FI/EN). Finnish titles include English translations in parentheses. English-language publications are listed in English only. t
+🗣️ This website and all related listings are bilingual (FI/EN). Finnish titles include English translations in parentheses. English-language publications are listed in English only.
 
 ---
 
@@ -35,6 +35,16 @@
 📄 [Enterprise Architecture Benefit Realization (PhD Dissertation, EN)](http://urn.fi/URN:ISBN:978-952-15-3850-6)  
 🧭 [Enterprise Architecture Information Package (FI)](https://kokonaisarkkitehtuuri.org)  
 🤖 [Eetu Niemi's Enterprise Architecture AI Assistant (Custom GPT)](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant)
+
+## Kirjastoluettelot / Library Listings
+
+Julkaisuni on koottu myös suomalaiseen kirjastotietokantaan (Finna) / My publications are also listed in the Finnish national and public library database (Finna).
+
+[Julkaisuni suomalaisissa kirjastoissa / My publications in Finnish libraries](https://www.finna.fi/List/2013602)
+
+[Julkaisuni Helmet-kirjastoissa / My publications in the Helmet network (Helsinki Metropolitan Area Libraries)](https://helmet.finna.fi/List/2149373)
+
+Luettelot tarjoavat ajantasaisen näkymän kirjoihini ja muihin julkaistuihin teoksiin suomalaisissa kirjastoissa / These listings provide an up-to-date view of my books and other published works available in Finnish libraries.
 
 ---
 
