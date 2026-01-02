@@ -3,7 +3,7 @@
 
 🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 
-🗣️ Tämä julkaisuluettelo on kaksikielinen (FI/EN). Suominkieliset julkaisun nimet sisältävät englanninkielisen käännöksen sulkeissa. Englanninkieliset julkaisut esitetään vain englanniksi.  
+🗣️ Tämä julkaisuluettelo on kaksikielinen (FI/EN). Suomenkieliset julkaisun nimet sisältävät englanninkielisen käännöksen sulkeissa. Englanninkieliset julkaisut esitetään vain englanniksi.  
 🗣️ This publication list is bilingual (FI/EN). Finnish titles include English translations in parentheses. English-language publications are listed in English only.
 
 ---
