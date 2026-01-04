@@ -22,7 +22,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 - 30.10.2025 *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 22.10.2025 *Kirjajulkkarit: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 25.9.2025 *Kokonaisarkkitehtuurin viitekehykset*, Enterprise Architecture 2025 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
-- 9.10.2024 *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?*. Koulutus Digikyvykkyys-hankkeessa. Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
+- 9.10.2024 *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?* Koulutus Digikyvykkyys-hankkeessa. Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
 - 24.9.2024 *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Enterprise Architecture 2024 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 18.6.2024 *Kyvykkyydet kokonaisarkkitehtuurissa*. Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)*. [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
 - 22.9.2022 *Onko mallintaminen turhaa?*. TiVi Enterprise Architecture -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
