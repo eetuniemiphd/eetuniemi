@@ -1,7 +1,7 @@
 # Esitykset / Presentations
 **Eetu Niemi, PhD**
 
-🌍 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
+🏠 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)
 
 Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive prior to 2017.
 
