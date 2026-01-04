@@ -25,7 +25,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 - 9.10.2024 *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?* Koulutus Digikyvykkyys-hankkeessa. Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
 - 24.9.2024 *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Enterprise Architecture 2024 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 18.6.2024 *Kyvykkyydet kokonaisarkkitehtuurissa*. Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)*. [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
-- 22.9.2022 *Onko mallintaminen turhaa?*. TiVi Enterprise Architecture -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
+- 22.9.2022 *Onko mallintaminen turhaa?* TiVi Enterprise Architecture -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 14.12.2021 *Sisältö edellä arkkitehtuurissa*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/995/coala/sisalto-edella-arkkitehtuurissa)
 - 8.12.2021 *Kokonaisarkkitehtuuri ja IAM*. Telian webinaari. Materiaalit eivät julkisesti saatavilla.
 - 17.6.2021 *Älä astu ainakaan kaikkiin miinoihin IAM-hankkeessa*. Alma Talent IAM -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
@@ -33,13 +33,13 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 - 17.3.2021 *Organisaation kokonaiskuva kyberturvallisuuden perustana*. Coalan kyberturvallisuustapahtuma. Materiaalit eivät julkisesti saatavilla.
 - 9.3.2021 *Ohjaa IAM-toteutusta viitearkkitehtuurilla*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/901/coala/ohjaa-iam-toteutusta-viitearkkitehtuurilla)
 - 26.1.2021 *IAM ei tapahdu kerralla – etene business case edellä*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/894/coala/iam-ei-tapahdu-kerralla--etene-business-case-edella)
-- 8.12.2020 *Miten voit arvioida kokonaisarkkitehtuurin työmäärän?*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/839/coala/miten-voit-arvioida-kokonaisarkkitehtuurin-tyomaaran)
+- 8.12.2020 *Miten voit arvioida kokonaisarkkitehtuurin työmäärän?* Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/839/coala/miten-voit-arvioida-kokonaisarkkitehtuurin-tyomaaran)
 - 27.10.2020 *Kokonaisarkkitehtuuria äärellisellä työllä*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/768/coala/kokonaisarkkitehtuuria-aarellisella-tyolla)
-- 30.9.2020 *Voiko tiedonhallintamalli olla muutakin kuin pakkopullaa?*. Prosessipäivät-tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
+- 30.9.2020 *Voiko tiedonhallintamalli olla muutakin kuin pakkopullaa?* Prosessipäivät-tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 25.8.2020 *Tiedonhallintamallin kuvaaminen arkkitehtuurilla*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/769/coala/tiedonhallintamallin-kuvaaminen-arkkitehtuurilla)
-- 5.5.2020 *Onko kokonaisarkkitehtuuritoimintosi hyödyllinen?*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/665/coala/onko-kokonaisarkkitehtuuritoimintosi-hyodyllinen)
+- 5.5.2020 *Onko kokonaisarkkitehtuuritoimintosi hyödyllinen?* Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/665/coala/onko-kokonaisarkkitehtuuritoimintosi-hyodyllinen)
 - 4.2.2020 *Tiedonhallintamallin kuvaaminen konkreettisesti*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/664/coala/tiedonhallintamallin-kuvaaminen-konkreettisesti)
-- 13.11.2019 *Meneekö kokonaisarkkitehtuuriin ikä ja terveys?*. TiVi Enterprise Architecture-tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
+- 13.11.2019 *Meneekö kokonaisarkkitehtuuriin ikä ja terveys?* TiVi Enterprise Architecture-tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 1.10.2019 *Projekti tehokkaasti käyntiin kokonaisarkkitehtuurikuvauksilla*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/590/coala/projekti-tehokkaasti-kayntiin-kokonaisarkkitehtuurikuvauksilla)
 - 7.5.2019 *Ratkaisuarkkitehtuurin kuvaaminen käytännössä*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/504/coala/ratkaisuarkkitehtuurin-kuvaaminen-kaytannossa)
 - 3.4.2019 *Kokonaisarkkitehtuurin onnistunut käynnistys pilotoinnilla*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/503/coala/kokonaisarkkitehtuurin-onnistunut-kaynnistys-pilotoinnilla)
