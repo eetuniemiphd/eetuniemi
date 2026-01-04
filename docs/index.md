@@ -21,7 +21,7 @@
 
 ## Pikalinkit / Quick Links
 
-- 🏠 Personal home page: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
+- 🏠 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
 - ✍️ [Medium](https://medium.com/@eetuniemi)  
 - 🖇️ [About.me](https://about.me/eetuniemi)
 - 📘 [Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)  
