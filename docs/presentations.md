@@ -16,7 +16,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ---
 
 ## Julkiset esitykset
-**Public Presentations**
+📢 ***Public Presentations***
 
 - 30.10.2025 *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 22.10.2025 *Kirjajulkkarit: Enterprise Architecture – Your Guide to Organizational Transformation*.
@@ -52,7 +52,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ---
 
 ## Ei-julkiset esitykset
-**Non-Public Presentations**
+🔒 ***Non-Public Presentations***
 
 Työnantajan ja asiakastoimeksiantojen sisällä ppidettyjä esityksiä ei ole mainittu. / Presentations delivered internally within the employer organization or as part of client engagements are not included.
 
@@ -66,7 +66,7 @@ Työnantajan ja asiakastoimeksiantojen sisällä ppidettyjä esityksiä ei ole m
 ---
 
 ## Oppilaitosyhteistyö ja luennot
-**University Cooperation and Lectures**
+🎓 ***University Cooperation and Lectures***
 
 - 6.11.2025 *Kokonaisarkkitehtuuri käytännössä*. Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu), kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 29.10.2025 *Eetu Niemi: arkkitehtuurikonsultti*. Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu), kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
