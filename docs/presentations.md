@@ -18,6 +18,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ## Julkiset esitykset
 📢 ***Public Presentations***
 
+- 9.12.2025 *Kuinka päästä nopeasti liikkeelle kokonaisarkkitehtuurin kuvaamisessa*. KAOS-tapahtuma 4/2025 Näkyvyyttä ja hallittavuutta.
 - 30.10.2025 *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 22.10.2025 *Kirjajulkkarit: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 25.9.2025 *Kokonaisarkkitehtuurin viitekehykset*, Enterprise Architecture 2025 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
