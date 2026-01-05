@@ -34,4 +34,4 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 - 2.6.2022 [*Olisiko sinusta arkkitehtuuritiimin vetäjäksi?*](https://open.spotify.com/episode/6hI9VFJsCmrNVZYPgd7JjQ). **Arkkitehtuurikahvit**.
 - 23.5.2022 [*Kiinnostaako kokonaisarkkitehtuuri organisaatiossasi ketään?*](https://open.spotify.com/episode/0Gd9yMPizKbgit8KAoPn5p). **Arkkitehtuurikahvit**.
 - 5.5.2022 [*Miten saat pidettyä arkkitehdin tiimissä?*](https://open.spotify.com/episode/3EkQfwy9KUQ02cZiAAeEfw). **Arkkitehtuurikahvit**.
-- - 27.6.2021 [*Suorinta reittiä unelmatyöhön IT-konsultiksi*](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi). **Koodarikuiskaajan podcast**.
+- 27.6.2021 [*Suorinta reittiä unelmatyöhön IT-konsultiksi*](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi). **Koodarikuiskaajan podcast**.
