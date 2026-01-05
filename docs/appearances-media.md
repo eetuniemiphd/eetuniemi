@@ -25,4 +25,4 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 🎙️ ***Podcast Appearances***
 
 - 10.11.2025 [*Episode 101 — Lightweight Enterprise Architecture: Eetu Niemi*](https://www.whatsyourbaseline.com/blog/2025/11/10/episode-101-lightweight-enterprise-architecture-eetu-niemi). **What's Your Baseline?**
-- 27.6.2021 [*Suorinta reittiä unelmatyöhön IT-konsultiksi*](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi). - **Koodarikuiskaajan podcast**.
+- 27.6.2021 [*Suorinta reittiä unelmatyöhön IT-konsultiksi*](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi). **Koodarikuiskaajan podcast**.
