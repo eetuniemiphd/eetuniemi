@@ -55,13 +55,14 @@
 
 ## Kirjailijaprofiilit ja ulkoiset sivut / Author Profiles & External Pages
 
-- [Goodreads](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)
-- [Open Library](https://openlibrary.org/authors/OL9626398A/Eetu_Niemi)
-- [LibraryThing](https://www.librarything.com/author/niemieetu)
-- [Amazon](https://www.amazon.com/stores/Eetu-Niemi/author/B09198631S?ccs_id=3843f650-164e-459b-9546-176a9c4761fb)
-- [Alma Insights](https://kirjakauppa.almainsights.fi/sivu/kirjailijat/niemi-eetu)
-- [Business Expert Press](https://www.businessexpertpress.com/eetu-niemi)
-- [CGI](https://www.cgi.com/fi/fi/experts/eetu-niemi)
+- 📚 [Goodreads](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)
+- 📚 [Open Library](https://openlibrary.org/authors/OL9626398A/Eetu_Niemi)
+- 📚 [LibraryThing](https://www.librarything.com/author/niemieetu)
+- 📚 [Amazon](https://www.amazon.com/stores/Eetu-Niemi/author/B09198631S?ccs_id=3843f650-164e-459b-9546-176a9c4761fb)
+- 📚 [Alma Insights](https://kirjakauppa.almainsights.fi/sivu/kirjailijat/niemi-eetu)
+- 📚 [Business Expert Press](https://www.businessexpertpress.com/eetu-niemi)
+- 🏢 [CGI](https://www.cgi.com/fi/fi/experts/eetu-niemi)
+- 🧑‍💼 [Professio](https://professio.fi/people/eetu-niemi)
 
 ---
 
