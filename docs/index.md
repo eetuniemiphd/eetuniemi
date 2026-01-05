@@ -39,12 +39,12 @@
 ## Profiilit ja sosiaalinen media / Profiles & Social Media
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eetuniemiphd)  
-- 🔗 [Instagram (author page)](https://www.instagram.com/eetuniemi.author)  
-- 🔗 [Facebook (author page)](https://www.facebook.com/profile.php?id=61577058500196)
-- 🔗 [YouTube (author)](https://www.youtube.com/@eetuniemiphd)
-- 🔗 [YouTube (EATransformation)](https://www.youtube.com/@eatransformation)
-- 🔗 [Substack](https://substack.com/@eetuniemi)
-- 🔗 [GitHub](https://github.com/eetuniemiphd)
+- 📸 [Instagram (author page)](https://www.instagram.com/eetuniemi.author)  
+- 📘 [Facebook (author page)](https://www.facebook.com/profile.php?id=61577058500196)
+- 🎥 [YouTube (author)](https://www.youtube.com/@eetuniemiphd)
+- 🎥 [YouTube (EATransformation)](https://www.youtube.com/@eatransformation)
+- ✉️ [Substack](https://substack.com/@eetuniemi)
+- 💻 [GitHub](https://github.com/eetuniemiphd)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=Fng415gAAAAJi)
 - 🎓 [ORDiC](https://orcid.org/0000-0002-2359-0336)
 - 🎓 [Academia](https://independent.academia.edu/EetuNiemi)
