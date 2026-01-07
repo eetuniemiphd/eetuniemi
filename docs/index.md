@@ -55,6 +55,7 @@
 
 ## Kirjailijaprofiilit ja ulkoiset sivut / Author Profiles & External Pages
 
+- 📚 [Kirjasampo](https://www.kirjasampo.fi/fi/kulsa/saha3%253Auddd95a1e-4875-4e72-867b-51aba93a7760)
 - 📚 [Goodreads](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)
 - 📚 [Open Library](https://openlibrary.org/authors/OL9626398A/Eetu_Niemi)
 - 📚 [LibraryThing](https://www.librarything.com/author/niemieetu)
