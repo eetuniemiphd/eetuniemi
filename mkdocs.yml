@@ -26,6 +26,10 @@ plugins:
   - search:
       lang: [en, fi]
 
+extra:
+  social:
+    image: assets/social-preview.png
+
 nav:
   - Koti / Home: index.md
   - Julkaisut / Publications: publications.md
