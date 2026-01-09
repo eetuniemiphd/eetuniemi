@@ -25,10 +25,7 @@ theme:
 plugins:
   - search:
       lang: [en, fi]
-
-extra:
-  social:
-    image: assets/eetu-niemi-publications-social-preview.png
+  - social
 
 nav:
   - Koti / Home: index.md
