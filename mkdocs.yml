@@ -28,7 +28,7 @@ plugins:
 
 extra:
   social:
-    image: assets/social-preview.png
+    image: assets/eetu-niemi-publications-social-preview.png
 
 nav:
   - Koti / Home: index.md
