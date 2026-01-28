@@ -43,4 +43,4 @@ Tämä lista ei ole kattava ennen vuotta 2016 / This list is not comprehensive p
 💬 ***Panels and Discussions***
 
 - 11.2.2026 Panelisti / Panelist, Book Authors Panel. **[CDOIQ Nordic Symposium 2026](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium), Aalto University Executive Education (Aalto EE)**, Finland.
-- 25.9.2025 Panelisti / Panelist. Enterprise Architecture 2025, Finland.
+- 25.9.2025 Panelisti / Panelist. **Enterprise Architecture 2025**, Finland.
