@@ -42,4 +42,4 @@ Tämä lista ei ole kattava ennen vuotta 2016 / This list is not comprehensive p
 ## Paneelit ja keskustelut
 💬 ***Panels and Discussions***
 
-11.2.2026 [Panelist: Book Authors Panel]. **CDOIQ Nordic Symposium 2026, Aalto University Executive Education (Aalto EE)**, Finland.
+11.2.2026 [Panelist: Book Authors Panel]. [**CDOIQ Nordic Symposium 2026](https://www.aaltoee.fi/en/programs/cdoiq-nordic-symposium), Aalto University Executive Education (Aalto EE)**, Finland.
