@@ -10,7 +10,8 @@ Tämä lista ei ole kattava ennen vuotta 2016 / This list is not comprehensive p
 ## Sisällysluettelo / Table of Contents
 
 📰 [Haastattelut ja artikkelit / Interviews and Articles](#haastattelut-ja-artikkelit)  
-🎙️ [Podcastit / Podcast Appearances](#podcastit)  
+🎙️ [Podcastit / Podcast Appearances](#podcastit)
+💬 [Paneelit ja keskustelut / Panels and Discussions]
 
 ---
 
@@ -35,3 +36,10 @@ Tämä lista ei ole kattava ennen vuotta 2016 / This list is not comprehensive p
 - 23.5.2022 [*Kiinnostaako kokonaisarkkitehtuuri organisaatiossasi ketään?*](https://open.spotify.com/episode/0Gd9yMPizKbgit8KAoPn5p). **Arkkitehtuurikahvit**.
 - 5.5.2022 [*Miten saat pidettyä arkkitehdin tiimissä?*](https://open.spotify.com/episode/3EkQfwy9KUQ02cZiAAeEfw). **Arkkitehtuurikahvit**.
 - 27.6.2021 [*Suorinta reittiä unelmatyöhön IT-konsultiksi*](https://koodarikuiskaaja.fi/podcast/suorinta-reittia-unelmatyohon-it-konsultiksi). **Koodarikuiskaajan podcast**.
+
+---
+
+## Paneelit ja keskustelut
+💬 ***Panels and Discussions***
+
+11.2.2026 [Panelist: Book Authors Panel]. **CDOIQ Nordic Symposium 2026, Aalto University Executive Education (Aalto EE)**, Finland.
