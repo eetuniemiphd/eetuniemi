@@ -11,7 +11,7 @@ Tämä lista ei ole kattava ennen vuotta 2016 / This list is not comprehensive p
 
 📰 [Haastattelut ja artikkelit / Interviews and Articles](#haastattelut-ja-artikkelit)  
 🎙️ [Podcastit / Podcast Appearances](#podcastit)
-💬 [Paneelit ja keskustelut / Panels and Discussions]
+💬 [Paneelit ja keskustelut / Panels and Discussions](#paneelit-ja-keskustelut)
 
 ---
 
