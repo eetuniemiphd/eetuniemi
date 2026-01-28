@@ -18,14 +18,14 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ## Julkiset esitykset
 📢 ***Public Presentations***
 
-- 28.1.2026 *Kokonaisarkkitehtuurin uudelleen käynnistäminen*. Arterin webinaari. [Tallenne](https://www.arter.fi/webinaari/kokonaisarkkitehtuurin-uudelleen-kaynnistaminen) [Blogikirjoitus aiheesta](https://www.arter.fi/7-askelta-kokonaisarkkitehtuurityon-aktivointiin)
+- 28.1.2026 *Kokonaisarkkitehtuurin uudelleen käynnistäminen*. Arterin webinaari. [Tallenne ja lisätiedot](https://www.arter.fi/webinaari/kokonaisarkkitehtuurin-uudelleen-kaynnistaminen) | [Blogikirjoitus aiheesta](https://www.arter.fi/7-askelta-kokonaisarkkitehtuurityon-aktivointiin)
 - 9.12.2025 *Kuinka päästä nopeasti liikkeelle kokonaisarkkitehtuurin kuvaamisessa*. KAOS-tapahtuma 4/2025 Näkyvyyttä ja hallittavuutta.
 - 30.10.2025 *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 22.10.2025 *Kirjajulkkarit: Enterprise Architecture – Your Guide to Organizational Transformation*.
 - 25.9.2025 *Kokonaisarkkitehtuurin viitekehykset*, Enterprise Architecture 2025 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 9.10.2024 *Kokonaisarkkitehtuuri käytännössä: miten aloittaa ja mikä riittää?* Koulutus Digikyvykkyys-hankkeessa. Materiaalit eivät julkisesti saatavilla. [Tieto koulutuksesta](https://digikyvykkyys.info/tapahtumat)
 - 24.9.2024 *Kokonaisarkkitehtuurin ymmärryksen lisääminen organisaatiossa*. Enterprise Architecture 2024 -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
-- 18.6.2024 *Kyvykkyydet kokonaisarkkitehtuurissa*. Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)*. [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
+- 18.6.2024 *Kyvykkyydet kokonaisarkkitehtuurissa*. Arkkitehtuurikillan Q2/2024-tapaaminen (DVV)*. [Tallenne](https://dreambroker.com/channel/m06sxbf0/771yoblm) | [Esitysmateriaali (PDF)](https://cdn.verkkopalvelu.suomi.fi/files/Kyvykkyydet%20kokonaisarkkitehtuurissa%20-%20Arkkitehtuurikilta%20Q2-2024%20-%20Eetu%20Niemi%20(1)-90632721135b4823f0b41164358f1767.pdf)
 - 22.9.2022 *Onko mallintaminen turhaa?* TiVi Enterprise Architecture -tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 14.12.2021 *Sisältö edellä arkkitehtuurissa*. Coalan webinaari (Oppia.fi). [Tallenne ja lisätiedot (vaatii rekisteröitymisen)](https://oppia.fi/webinaarit/995/coala/sisalto-edella-arkkitehtuurissa)
 - 8.12.2021 *Kokonaisarkkitehtuuri ja IAM*. Telian webinaari. Materiaalit eivät julkisesti saatavilla.
