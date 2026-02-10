@@ -48,10 +48,11 @@
 ## Tietokirjat
 📘 ***Nonfiction Books***
 
+- Niemi, E. (2026). *[The Senior Expert Career Playbook](https://store.eetuniemi.net/l/senior-expert-playbook)*. Self-published (Gumroad).
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press.
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
-- Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.eetuniemi.net)*. Amazon (self-published).  
-- Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.eetuniemi.net)*. Amazon (self-published). 
+- Niemi, E. (2022). *[Successful Technology Consulting: How to Become a Top Dollar IT Consultant](https://itconsulting.eetuniemi.net)*. Self-published (Amazon).  
+- Niemi, E. (2021). *[Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting](https://itconsulting.eetuniemi.net)*. Self-published (Amazon). 
 
 ---
 
@@ -199,5 +200,6 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Kokoelmat ja kuratoidut julkaisut
 📂 ***Curated Collections & Platforms***
 
+- [Gumroad](https://store.eetuniemi.net).
 - [Diigo](https://www.diigo.com/user/eetuniemi)
 - [Wakelet](https://wakelet.com/@EetuNiemi)
