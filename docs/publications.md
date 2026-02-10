@@ -200,6 +200,6 @@ https://www.elavaatyoelamaa.fi/kirjaesittely/kokonaisarkkitehtuuri-oppaasi-organ
 ## Kokoelmat ja kuratoidut julkaisut
 📂 ***Curated Collections & Platforms***
 
-- [Gumroad](https://store.eetuniemi.net).
+- Independent publishing on [Gumroad](https://store.eetuniemi.net)
 - [Diigo](https://www.diigo.com/user/eetuniemi)
 - [Wakelet](https://wakelet.com/@EetuNiemi)
