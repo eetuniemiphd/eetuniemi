@@ -59,7 +59,7 @@
 ## Romaanit
 📖 ***Novels***
 
-- Niemi, E. (2026). *[Pohjoisen tie (The Northern Road)](https://pohjoisentie.eetuniemi.fi)*. Momentum Kirjat. **📘 Upcoming book**
+- Niemi, E. (2026). *[Pohjoisen tie (The Northern Road)](https://pohjoisentie.eetuniemi.fi)*. Momentum Kirjat.
 
 ---
 
