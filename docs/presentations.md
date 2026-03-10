@@ -18,6 +18,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ## Julkiset esitykset
 📢 ***Public Presentations***
 
+- 10.3.2026 *Toimintakerroksen mallintaminen*. KAOS-tapahtuma 1/2026 Mallinnuspäivä.
 - 28.1.2026 *Kokonaisarkkitehtuurin uudelleen käynnistäminen*. Arterin webinaari. [Tallenne ja lisätiedot](https://www.arter.fi/webinaari/kokonaisarkkitehtuurin-uudelleen-kaynnistaminen) | [Blogikirjoitus aiheesta](https://www.arter.fi/7-askelta-kokonaisarkkitehtuurityon-aktivointiin)
 - 9.12.2025 *Kuinka päästä nopeasti liikkeelle kokonaisarkkitehtuurin kuvaamisessa*. KAOS-tapahtuma 4/2025 Näkyvyyttä ja hallittavuutta.
 - 30.10.2025 *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*.
@@ -70,6 +71,7 @@ Työnantajan ja asiakastoimeksiantojen sisällä ppidettyjä esityksiä ei ole m
 ## Oppilaitosyhteistyö ja luennot
 🎓 ***University Cooperation and Lectures***
 
+- 3.3.2026 *Practical Enterprise Architecture*. Lecture on course ICT Architectures (Haaga-Helia University of Applied Sciences), invited speaker. Materials not publicly available.
 - 6.11.2025 *Kokonaisarkkitehtuuri käytännössä*. Luento kurssilla ICT-arkkitehtuurit (Haaga-Helia ammattikorkeakoulu), kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 29.10.2025 *Eetu Niemi: arkkitehtuurikonsultti*. Esitys kurssilla Johdanto liiketoimintalähtöiseen ICT:hen (Haaga-Helia ammattikorkeakoulu), kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 18.9.2025 *Q&A-tilaisuus kokonaisarkkitehtuuriin liittyvällä opintojaksolla*. (Lapin AMK). Materiaalit eivät julkisesti saatavilla.
