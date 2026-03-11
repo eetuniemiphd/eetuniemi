@@ -18,7 +18,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ## Julkiset esitykset
 📢 ***Public Presentations***
 
-- 10.3.2026 *Toimintakerroksen mallintaminen*. KAOS-tapahtuma 1/2026 Mallinnuspäivä.
+- 10.3.2026 *Toimintakerroksen mallintaminen*. KAOS-tapahtuma 1/2026 Mallinnuspäivä – Back to Basics.
 - 28.1.2026 *Kokonaisarkkitehtuurin uudelleen käynnistäminen*. Arterin webinaari. [Tallenne ja lisätiedot](https://www.arter.fi/webinaari/kokonaisarkkitehtuurin-uudelleen-kaynnistaminen) | [Blogikirjoitus aiheesta](https://www.arter.fi/7-askelta-kokonaisarkkitehtuurityon-aktivointiin)
 - 9.12.2025 *Kuinka päästä nopeasti liikkeelle kokonaisarkkitehtuurin kuvaamisessa*. KAOS-tapahtuma 4/2025 Näkyvyyttä ja hallittavuutta.
 - 30.10.2025 *Virtual Book Launch: Enterprise Architecture – Your Guide to Organizational Transformation*.
