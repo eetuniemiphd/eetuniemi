@@ -30,6 +30,8 @@
 ## Kirjoituskilpailut
 🏆 ***Writing Competitions***
 
+- **Atorox (2026)**, annual award for the best Finnish speculative fiction short story, Turku Science Fiction Society.
+    - *Kaislameri* (*The Reed Sea*) was shortlisted among the top 24 Finnish speculative fiction short stories of 2025.
 - **Art Breaks Walls (2025)**, writing contest for school-themed short stories, Aviador Publishing and writer Hannu Luntiala.
     - *Vanhan koulun hiljaisuus* (*The Silense of the Old School*) placed in the top 16 out of 320+ entries
 - **Portti (2024)**, sci-fi and fantasy writing contest for short stories, Tampere Science Fiction Society.
