@@ -22,9 +22,9 @@
 ## Pikalinkit / Quick Links
 
 - 🏠 Henkilökohtainen kotisivu / Personal homepage: [FI](https://eetuniemi.fi) / [EN](https://eetuniemi.net)  
-- ✍️ [Medium](https://medium.com/@eetuniemi)
-- ✍️ [Gumroad](https://store.eetuniemi.net)
-- 🖇️ [About.me](https://about.me/eetuniemi)
+- ✍️ [Medium](https://medium.com/@eetuniemi)  
+- 📚 [Gumroad (independent publishing)](https://store.eetuniemi.net)  
+- 🖇️ [About.me](https://about.me/eetuniemi)  
 - 📘 [Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)  
 - 📙 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)
 - 📗 [The Senior Expert Career Playbook: How to Build Visibility, Influence, Sustainability, and Fair Compensation Without Becoming a Manager (book, EN)](https://store.eetuniemi.net/l/senior-expert-playbook)
