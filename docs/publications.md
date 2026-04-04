@@ -50,6 +50,7 @@
 ## Tietokirjat
 📘 ***Nonfiction Books***
 
+- Niemi, E. (2026). *[The Senior Expert Pay Playbook](https://store.eetuniemi.net/l/senior-expert-pay-playbook)*. Self-published (Gumroad).
 - Niemi, E. (2026). *[The Senior Expert Career Playbook](https://store.eetuniemi.net/l/senior-expert-playbook)*. Self-published (Gumroad).
 - Niemi, E. (2025). *[Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)*. Business Expert Press.
 - Niemi, E. (2024). *[Kokonaisarkkitehtuuri: Oppaasi organisaation muutosmatkalla (Enterprise Architecture: Your Guide Through Organizational Change)](https://kokonaisarkkitehtuuri.com)*. Alma Insights.  
