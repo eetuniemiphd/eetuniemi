@@ -30,6 +30,8 @@
 ## Kirjoituskilpailut
 🏆 ***Writing Competitions***
 
+- **Kouvolan dekkaripäivät (Kouvola Crime Literature Festival) (2026)** short story writing competition and anthology.
+    - *Erikoisolutta* (*Special Beer*) was selected for publication in the official competition anthology, top 30 out of 151 submissions.
 - **Atorox (2026)**, annual award for the best Finnish speculative fiction short story, Turku Science Fiction Society.
     - *Kaislameri* (*The Reed Sea*) was shortlisted among the top 24 Finnish speculative fiction short stories of 2025.
 - **Art Breaks Walls (2025)**, writing contest for school-themed short stories, Aviador Publishing and writer Hannu Luntiala.
@@ -77,6 +79,7 @@
 ## Novellit
 ✍️ ***Short Stories***
 
+- Niemi, E. (2026). *Erikoisolutta* (*Special Beer*). Published in [*Todistajan taakka: Kouvolan 30. dekkaripäivien novelliantologia*](https://reunalla.fi/products/todistajan-taakka) (*The Witness’s Burden: Short Stories from the 30th Kouvola Crime Fiction Festival*). Reuna Publishing House.  
 - Niemi, E. (2025).*Vanhan koulun hiljaisuus* (*The Silense of the Old School*). Published in [*Muistelmia ja mustelmia: tarinoita koulusta*](https://www.aviador.fi/product-page/muistelmia-ja-mustelmia-tarinoita-koulusta) (*Memoirs and Bruises: Stories from School*). Aviador Publishing.  
 - Niemi, E. (2024). *Kaislameri* (*The Reed Sea*). Published in *Portti* 4/2024. Tampere Science Fiction Society.  
 - Niemi, E. (2024). *Kuoleman koodi* (*The Death Code*). Published in [*Tekoäly ja rikos: Kouvolan Dekkaripäivien kirjoituskilpailun parhaat 2024*](https://www.suomalainen.com/products/tekoaly-ja-rikos) (*Artificial Intelligence and Crime: Best Entries from the 2024 Crime Writing Contest*). City of Kouvola.  
