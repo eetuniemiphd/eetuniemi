@@ -124,7 +124,7 @@
 🖊️ ***Own Blogs and Newsletters***
 
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
-- [IT Consulting Career Hub](https://www.itconsultingcareer.com)
+- [Expert Work by Design (formerly IT Consulting Career Hub)](https://www.itconsultingcareer.com)
 
 ---
 
