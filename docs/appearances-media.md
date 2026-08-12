@@ -18,7 +18,7 @@ Tämä lista ei ole kattava ennen vuotta 2016 / This list is not comprehensive p
 ## Haastattelut ja artikkelit
 📰 ***Interviews and Articles***
 
-- 12.8.2026 *4 + 1 päivässä ehtii vaikka mitä”*. Muuramelainen.
+- 12.8.2026 *4 + 1 päivässä ehtii näemmä vaikka mitä”*. Muuramelainen.
 - 29.4.2021 [*Näin loistat it-konsulttina – ”omaa osaamistaan pitää osata myydä”*](https://www.tivi.fi/uutiset/a/4a161d91-55b9-4859-bd36-63da47538259). Tivi.
 
 ---
