@@ -34,7 +34,7 @@
     - *Erikoisolutta* (*Special Beer*) was selected for publication in the official competition anthology, placing in the top 30 out of 151 submissions.
 - **Atorox (2026)**, annual award for the best Finnish speculative fiction short story, Turku Science Fiction Society.
     - *Kaislameri* (*The Reed Sea*) was shortlisted among the top 24 Finnish speculative fiction short stories published in 2025.
-- **Art House Children’s and Young Adult Nonfiction Writing Competition (2026)**
+- **Art Housen lasten ja nuorten tietokirjojen kirjoituskilpailu (Art House Children’s and Young Adult Nonfiction Writing Competition) (2026)**
     - *Nöpö – Tekoäly joka tietää melkein kaiken* (*Nöpö – Artificial Intelligence That Knows Almost Everything*) was selected as one of 5 finalists out of 88 entries.
 - **Art Breaks Walls (2025)**, writing contest for school-themed short stories, Aviador Publishing and writer Hannu Luntiala.
     - *Vanhan koulun hiljaisuus* (*The Silense of the Old School*) placed in the top 16 out of more than 320 entries.
