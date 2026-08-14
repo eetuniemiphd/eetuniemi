@@ -138,7 +138,7 @@
 ## Valikoituja blogikirjoituksia
 📝 ***Selected Blog Posts***
 
-Niemi, E. (1 June 2026). [Kun kaikki tärkeä ei mahdu samaan viikkoon](https://www.elavaatyoelamaa.fi/itsetuntemus/kun-kaikki-tarkea-ei-mahdu-samaan-viikkoon) (When Everything Important Doesn’t Fit into the Same Week). Elävää Työelämää
+- Niemi, E. (1 June 2026). [Kun kaikki tärkeä ei mahdu samaan viikkoon](https://www.elavaatyoelamaa.fi/itsetuntemus/kun-kaikki-tarkea-ei-mahdu-samaan-viikkoon) (When Everything Important Doesn’t Fit into the Same Week). *Elävää Työelämää*
 - Niemi, E. (18 November 2025). [Nelipäiväinen työviikko nosti Eetu Niemen uran uudelle tasolle – romuttaa tehokkuusmyytin: ”Kiire on kyvyttömyyttä priorisoida”](https://duunitori.fi/tyoelama/nelipaivainen-tyoviikko-tehokkuus) (A four-day workweek took Eetu Niemi’s career to a new level – shattering the efficiency myth: "Being busy is an inability to prioritize"). *Duunitori*
 - Niemi, E. (15 October 2025). [Millainen on vastuullinen, asiakaslähtöinen ja tietoturvallinen kokonaisarkkitehtuuri?](https://www.linkedin.com/pulse/millainen-vastuullinen-asiakasl%25C3%25A4ht%25C3%25B6inen-ja-eetu-niemi-phd-zl0mf/?trackingId=tZxzDzb8RXqdJNO0PkxBDA%3D%3D) (What does a responsible, customer-centric, and secure enterprise architecture look like?). *Linkedin*
 - Niemi, E. (21 November 2024). [Viisi askelta kokonaisarkkitehtuurityön käynnistämiseen](https://www.almainsights.fi/blogi/viisi-askelta-kokonaisarkkitehtuurityon-kaynnistamiseen) (Five Steps to Starting Enterprise Architecture Work). *Alma Insights*
