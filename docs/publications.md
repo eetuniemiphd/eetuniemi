@@ -73,7 +73,7 @@
 ## Lastenkirjat
 🧸 ***Children's Books***
 
-- Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*). Aviador Publishing. **📘 Upcoming book – 🛠️ Working title**
+- Niemi, E. & Alm, E. (2026). *Unelmien polkupyörä* (*The Dream Bicycle*). Aviador Publishing. **📘 Upcoming book**
 - Niemi, E. (2025). *[Little Cthulhu's Breakfast Time](https://www.amazon.com/dp/B0FBGJ1Y7T)*. Amazon (self-published).  
 
 ---
