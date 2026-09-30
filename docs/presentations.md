@@ -58,7 +58,7 @@ Tämä lista ei ole kattava ennen vuotta 2017 / This list is not comprehensive p
 ## Ei-julkiset esitykset
 🔒 ***Non-Public Presentations***
 
-Työnantajan ja asiakastoimeksiantojen sisällä ppidettyjä esityksiä ei ole mainittu. / Presentations delivered internally within the employer organization or as part of client engagements are not included.
+Työnantajan ja asiakastoimeksiantojen sisällä pidettyjä esityksiä ei ole mainittu. / Presentations delivered internally within the employer organization or as part of client engagements are not included.
 
 - 13.11.2024 *Kokonaisarkkitehtuurin hyödyntäminen ja kehittäminen*. Työ- ja elinkeinoministeriön (TEM) hallinnonalan arkkitehtuuriverkosto, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
 - 14.6.2018 *Enterprise Architecture Usage and Benefits*, 7N:n tapahtuma, kutsuttu puhuja. Materiaalit eivät julkisesti saatavilla.
