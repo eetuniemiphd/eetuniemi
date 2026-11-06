@@ -1,3 +1,11 @@
+---
+description: >-
+  Presentations, webinars and university lectures by
+  Eetu Niemi, PhD, covering enterprise architecture,
+  organizational transformation, information management,
+  identity and access management (IAM), and IT consulting.
+---
+
 # Esitykset / Presentations
 **Eetu Niemi, PhD**
 
