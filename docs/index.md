@@ -1,3 +1,12 @@
+---
+description: >-
+  Eetu Niemi, PhD: publications, books, articles,
+  academic research, presentations and media
+  appearances on enterprise architecture, consulting
+  and work life, alongside novels, children's books
+  and short stories.
+---
+
 # Eetu Niemi – Julkaisut, esitykset ja julkiset esiintymiset / Publications, Presentations and Public Appearances
 
 
