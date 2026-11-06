@@ -1,3 +1,12 @@
+---
+title: Julkaisuluettelo / List of Publications
+description: >-
+  Publications by Eetu Niemi, PhD, including
+  nonfiction books, novels, children's books,
+  short stories, academic research, articles,
+  reports and other professional and creative works.
+---
+
 # Julkaisuluettelo / List of Publications  
 **Eetu Niemi, PhD**
 
