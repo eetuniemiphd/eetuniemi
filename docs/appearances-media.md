@@ -1,3 +1,12 @@
+
+---
+description: >-
+  Media appearances, interviews, podcast episodes
+  and panel discussions featuring Eetu Niemi, PhD,
+  covering enterprise architecture, IT consulting,
+  professional careers and work life.
+---
+
 # Esiintymiset, haastattelut ja media / Appearances, Interviews, and Media
 **Eetu Niemi, PhD**
 
