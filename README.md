@@ -17,6 +17,7 @@
 🔗 [Medium](https://medium.com/@eetuniemi)  
 🔗 [Goodreads (author page)](https://www.goodreads.com/author/show/21342428.Eetu_Niemi)  
 📚 [Gumroad (independent publishing)](https://store.eetuniemi.net)  
+📰 [Ilmiöt – riippumaton vjulkaisu (FI)](https://ilmiot.eetuniemi.fi/)  
 📘 [Enterprise Architecture: Your Guide to Organizational Transformation](https://enterprisearchitectureguide.com)  
 📙 [Kokonaisarkkitehtuuri – Oppaasi organisaation muutosmatkalla (book, FI)](https://kokonaisarkkitehtuuri.com)  
 📗 [The Senior Expert Career Playbook: How to Build Visibility, Influence, Sustainability, and Fair Compensation Without Becoming a Manager (book, EN)](https://store.eetuniemi.net/l/senior-expert-playbook)  
