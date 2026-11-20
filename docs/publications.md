@@ -131,6 +131,7 @@ description: >-
 ##  Omat blogit ja uutiskirjeet
 🖊️ ***Own Blogs and Newsletters***
 
+- [Ilmiöt](https://ilmiot.eetuniemi.fi/) – riippumaton vjulkaisu / Independent online publication (FI)
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
 - [Expert Work by Design (formerly IT Consulting Career Hub)](https://www.itconsultingcareer.com)
 
@@ -181,6 +182,7 @@ description: >-
 - *Mikä on kokonaisarkkitehtuuri ja miten se auttaa organisaatioita kehittymään*. Tietopaketti ja verkkosivusto / Information package and webpage [kokonaisarkkitehtuuri.org](https://kokonaisarkkitehtuuri.org)
 - [*Eetu Niemi's Enterprise Architecture Assistant*](https://chatgpt.com/g/g-69284a2eedf8819199371368afbb866b-eetu-niemi-s-enterprise-architecture-assistant). Kokonaisarkkitehtuurin tekoälyapuri / Custom GPT for practical, lightweight enterprise architecture work.
 - *GitHub repository Eetu Niemi*. [github.com/eetuniemiphd/eetuniemi](https://github.com/eetuniemiphd/eetuniemi)
+- *GitHub repository Ilmiöt*. [github.com/eetuniemiphd/ilmiot](https://github.com/eetuniemiphd/ilmiot)
 - *GitHub repository Kokonaisarkkitehtuuri*. [github.com/eetuniemiphd/kokonaisarkkitehtuuri](https://github.com/eetuniemiphd/kokonaisarkkitehtuuri)  
 - *GitHub repository Enteprise Architecture*. [github.com/eetuniemiphd/enterprisearchitecture](https://github.com/eetuniemiphd/enterprisearchitecture)
 
