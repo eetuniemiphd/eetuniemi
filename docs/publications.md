@@ -131,7 +131,7 @@ description: >-
 ##  Omat blogit ja uutiskirjeet
 🖊️ ***Own Blogs and Newsletters***
 
-- [Ilmiöt](https://ilmiot.eetuniemi.fi/) – riippumaton vjulkaisu / Independent online publication (FI)
+- [Ilmiöt](https://ilmiot.eetuniemi.fi/) – riippumaton julkaisu / Independent online publication (FI)
 - [Enterprise Architecture Transformation](https://www.eatransformation.com)
 - [Expert Work by Design (formerly IT Consulting Career Hub)](https://www.itconsultingcareer.com)
 
